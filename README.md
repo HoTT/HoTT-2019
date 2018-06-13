@@ -1,4 +1,4 @@
-### Organization and web pages for the HoTT 2018 conference
+### Organization and web pages for the HoTT 2019 conference
 
 #### How do generate the web page locally
 
