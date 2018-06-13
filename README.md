@@ -1,6 +1,6 @@
-### Organization and web pages for the HoTT 2018 conference
+### Organization and web pages for the HoTT 2019 conference
 
-#### How do generate the web page locally
+#### How to generate the web page locally
 
 To generate web pages locally for preview, you need [Jekyll](https://jekyllrb.com), which
 needs a million subsidiary Ruby packages. Rather than trying to install them with your
