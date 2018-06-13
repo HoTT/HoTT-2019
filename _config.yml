@@ -1,0 +1,9 @@
+kramdown:
+  hard_wrap: false
+  input: GFM
+
+exclude:
+  - publish
+  - Gemfile
+  - Gemfile.lock
+  - README.md
