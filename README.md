@@ -21,8 +21,8 @@ bare hands, you should just try
 
 With a bit of luck you've got Ruby installed so this command will do the right thing. The
 `bundle` command is part of the Ruby [Bundler](https://bundler.io) package manager. On a
-Mac it is available through [Homebrew](https://brew.sh). On Linux it is available through
-whatever package manager you use.
+Mac it is available through [Homebrew](https://brew.sh).  On Linux it is available through
+your package manager, e.g. on Debian/Ubuntu `sudo apt install ruby-bundler ruby-dev'.
 
 Then to generate and serve the pages locally, run
 
