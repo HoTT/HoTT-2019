@@ -6,7 +6,7 @@ layout: page
 
 This is a preliminary announcement of a conference on [homotopy type
 theory](https://homotopytypetheory.org). It will take place from August 11th to 16th,
-2019, at Carnegie Mellon Univesrity in Pittsburgh, USA.
+2019, at Carnegie Mellon University in Pittsburgh, USA.
 
 Further information will be posted as soon as it is available.
 
