@@ -4,9 +4,11 @@ description: 11–16 August 2019, Carnegie Mellon University USA
 layout: page
 ---
 
-This is a preliminary announcement of a conference on [homotopy type
+This is a preliminary announcement of an international conference on [homotopy type
 theory](https://homotopytypetheory.org). It will take place from August 11th to 16th,
 2019, at Carnegie Mellon University in Pittsburgh, USA.
+
+There will be an associated Homotopy Type Theory Summer School the preceeding week.
 
 Further information will be posted as soon as it is available.
 
