@@ -8,11 +8,10 @@ This is a preliminary announcement of an international conference on [homotopy t
 theory](https://homotopytypetheory.org). It will take place from August 12th to 17th,
 2019, at Carnegie Mellon University in Pittsburgh, USA.
 
-There will be an associated Homotopy Type Theory Summer School in
-preceeding week, August
-7th to 10th..
+There will be an associated Homotopy Type Theory Summer School in the
+preceeding week, August 7th to 10th.
 
-Further information will be posted as it becomes available.
+Further information will be posted here as it becomes available.
 
 ### Invited Speakers
 
