@@ -22,8 +22,16 @@ Further information will be posted here as it becomes available.
 * [Christian Sattler](https://www.chalmers.se/en/staff/Pages/sattler.aspx)
 * [Karol Szumilo](http://www1.maths.leeds.ac.uk/~pmtks/)
 
+### Summer School Topics and Instructors
 
-### Program Committee
+* Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/)
+* Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io)
+* Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/)
+* Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr)
+* Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
+* Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke)
+
+## Scientific Committee
 
 * [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Andrej Bauer](http://www.andrej.com/)
@@ -31,3 +39,10 @@ Further information will be posted here as it becomes available.
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/), chair
+
+## Summer School Organizers
+
+* [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
+* [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/)
