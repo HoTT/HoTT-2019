@@ -1,5 +1,5 @@
 ---
-title: HoTT 2019
+title: Homotopy Type Theory 2019 (HoTT 2019)
 description: 12–17 August 2019, Carnegie Mellon University, Pittsburgh, USA
 layout: page
 ---
