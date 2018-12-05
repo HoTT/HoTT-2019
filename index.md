@@ -1,11 +1,11 @@
 ---
-title: Homotopy Type Theory 2019
+title: HoTT 2019
 description: 12–17 August 2019, Carnegie Mellon University, Pittsburgh, USA
 layout: page
 ---
 
-There will be an international conference on [homotopy type
-theory](https://homotopytypetheory.org) from August 12th to 17th,
+There will be an International Conference on [Homotopy Type
+Theory](https://homotopytypetheory.org) (HoTT 2019) from August 12th to 17th,
 2019, at Carnegie Mellon University in Pittsburgh, USA.
 
 There will also be an associated Homotopy Type Theory Summer School in the
