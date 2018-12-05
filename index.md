@@ -9,7 +9,7 @@ Theory](https://homotopytypetheory.org) (HoTT 2019) from August 12th to 17th,
 2019, at Carnegie Mellon University in Pittsburgh, USA.
 
 There will also be an associated Homotopy Type Theory Summer School in the
-preceeding week, August 7th to 10th.
+preceding week, August 7th to 10th.
 
 Further information will be posted here as it becomes available.
 
