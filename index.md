@@ -31,7 +31,7 @@ Further information will be posted here as it becomes available.
 * Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke)
 
-#### Scientific Committee
+##### Scientific Committee
 
 * [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Andrej Bauer](http://www.andrej.com/)
@@ -40,7 +40,7 @@ Further information will be posted here as it becomes available.
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/), chair
 
-#### Summer School Organizers
+##### Summer School Organizers
 
 * [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
