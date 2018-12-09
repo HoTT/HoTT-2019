@@ -29,3 +29,13 @@ Then to generate and serve the pages locally, run
     bundle exec jekyll serve
 
 The pages will appear at [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+
+#### Troubleshooting on MacOS
+
+On MacOS one of the libraries is causing problems. If `bundle install` fails and complains that it cannot install `nokogiri`, run these:
+
+    sudo gem install pkg-config
+    sudo gem install nokogiri -v '1.8.5' --source 'https://rubygems.org/' -- --use-system-libraries
+
+Then run `bundle install` again.
+
