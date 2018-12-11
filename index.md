@@ -33,7 +33,7 @@ Further information will be posted here as it becomes available.
 
 ##### Scientific Committee
 
-* [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Andrej Bauer](http://www.andrej.com/)
 * [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
@@ -42,7 +42,7 @@ Further information will be posted here as it becomes available.
 
 ##### Summer School Organizers
 
-* [Steven Awodey](https://www.andrew.cmu.edu/user/awodey/)
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/)
