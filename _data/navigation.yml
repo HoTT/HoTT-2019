@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Conference
+  url: /
+  excerpt: Information about the HoTT 2019 conference
+
+- title: Summer school
+  url: /summer-school/
+  excerpt: Information about the HoTT 2019 summer school
+
+- title: Venue
+  url: /venue/
+  excerpt: Information about the HoTT 2019 venue
+
+- title: Dates
+  url: /dates/
+  excerpt: Important dates

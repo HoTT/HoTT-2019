@@ -1,9 +1,54 @@
-kramdown:
-  hard_wrap: false
-  input: GFM
+# Site wide configuration
 
+title: "Homotopy Type Theory 2019"
+description: # you can place here a subtitle
+logo: logo-small.png # 120x120 px default image used for Twitter summary card
+teaser: logo-medium.png # 400x250 px default teaser image used in image archive grid
+locale: en
+url: https://hott.github.io/HoTT-2019/
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name: Andrej Bauer
+  email: Andrej.Bauer@andrej.com
+
+include:
+  - .htaccess
 exclude:
-  - publish
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
   - Gemfile
-  - Gemfile.lock
-  - README.md
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
