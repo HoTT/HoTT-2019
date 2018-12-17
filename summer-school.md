@@ -2,15 +2,21 @@
 layout: page
 permalink: /summer-school/
 title: "HoTT Summer school"
-image:
-  feature: staircase-header.jpg
 ---
 
-Preceeding the conference there will be an associated Summer school on homotopy
-type theory from **August 7th to 10th, 2018**.
+`TODO better description (who is this for, what topics are covered, etc.)`
 
+`TODO explain financing support if any`
+
+`TODO explain application procedure`
+
+`TODO when ready: pointers to educational material and background reading.`
+
+`TODO contact person in case of questions (Jonas)`
 
 ### Summer School Topics and Instructors
+
+`TODO add affiliations`
 
 * Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/)
 * Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io)
@@ -21,6 +27,8 @@ type theory from **August 7th to 10th, 2018**.
 
 
 #### Summer School Organizers
+
+`TODO add affiliations`
 
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)

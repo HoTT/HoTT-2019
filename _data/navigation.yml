@@ -2,16 +2,28 @@
 
 - title: Conference
   url: /
-  excerpt: Information about the HoTT 2019 conference
+  excerpt: General information about the HoTT 2019 conference
 
 - title: Summer school
   url: /summer-school/
   excerpt: Information about the HoTT 2019 summer school
 
-- title: Venue
-  url: /venue/
-  excerpt: Information about the HoTT 2019 venue
+# Will be replaced by "Accepted papers" later
+- title: Call for papers
+  url: /call-for-papers/
+  excerpt: Call for papers and submisson information
 
-- title: Dates
-  url: /dates/
-  excerpt: Important dates
+- title: Registration
+  url: /registration/
+  excerpt: Conference and summer school registration
+
+- title: Local information
+  url: /local/
+  excerpt: Travel information and registration
+
+# This will appear later
+# - title: Programme
+#  url: /programme/
+#  excerpt: Schedule of all events
+
+

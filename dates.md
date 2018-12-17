@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /dates/
-title: "Dates"
+title: "Practical information"
 ---
 
 #### Submissions
