@@ -1,3 +1,24 @@
+### How to edit the web page content
+
+1. `git pull`
+2. Make changes to `.md` files (see below)
+3. `git status` to see what files you changed
+4. `git add XYZ.md` for every file you changed and you wish to commit
+5. `git push`
+6. Go to the conference web page, make sure to reload the page.
+
+The `.md` files are Markdown files, here is a [quick Markdown reference](https://guides.github.com/features/mastering-markdown/).
+
+Page source files:
+
+* [`index.md`](./index.md) -- main conference page
+* [`summer-school.md`](./summer-school.md) -- summer school page
+* [`call-for-papers.md`](./call-for-papers.md) -- call for papers
+* [`registration.md`](./registration.md) -- registration information
+* [`registration.md`](./registration.md) -- registration information
+* [`local.md`](./local.md) -- local information
+
+
 ### Organization and web pages for the HoTT 2019 conference
 
 These are the web pages for the HoTT 2019 conference. The website is at [https://hott.github.io/HoTT-2019/](https://hott.github.io/HoTT-2019/).
