@@ -6,8 +6,6 @@ title: "Homotopy Type Theory 2019"
 
 **THIS SITE CURRENTLY UNDER CONSTRUCTION. PLEASE EXCUSE THE MESS.**
 
-* Hi Andrej *
-
 `TODO: General description of the event (make dates clearly visible).`
 
 There will be an International Conference on [Homotopy Type
