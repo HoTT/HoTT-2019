@@ -2,8 +2,8 @@
 
 title: "Homotopy Type Theory 2019"
 description: # you can place here a subtitle
-logo: logo-small.png # 120x120 px default image used for Twitter summary card
-teaser: logo-medium.png # 400x250 px default teaser image used in image archive grid
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://hott.github.io/HoTT-2019/
 
@@ -37,12 +37,13 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - .git
   - CHANGELOG
   - Capfile
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - README.md
   - Rakefile
   - config
   - gulpfile.js
