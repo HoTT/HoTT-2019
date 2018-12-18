@@ -12,6 +12,7 @@ There will also be an associated [Homotopy Type Theory Summer
 School](/summer-school/) in the preceding week, August 7th to 10th.
 
 Further information will be posted here as it becomes available.
+Questions can be addressed to [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
 
 ### Invited Speakers
 
