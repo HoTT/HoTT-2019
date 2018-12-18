@@ -87,10 +87,16 @@
 	display: none;
 	position: relative;
 	@include media($medium) {
+                margin-bottom: 40px;
 		@include span-columns(12);
+		ul {
+			position: absolute;
+			right: 0;
+		}
 	}
 	@include media($large) {
-		@include span-columns(7);
+                margin-bottom: 40px;
+		@include span-columns(12);
 		ul {
 			position: absolute;
 			right: 0;
