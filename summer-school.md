@@ -4,34 +4,22 @@ permalink: /summer-school/
 title: "HoTT Summer school"
 ---
 
-`TODO better description (who is this for, what topics are covered, etc.)`
-
-`TODO explain financing support if any`
-
-`TODO explain application procedure`
-
-`TODO when ready: pointers to educational material and background reading.`
-
-`TODO contact person in case of questions (Jonas)`
+Coming soon!
 
 ### Summer School Topics and Instructors
 
-`TODO add affiliations`
-
-* Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/)
-* Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io)
-* Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/)
-* Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr)
-* Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
-* Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke)
+* Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/) (Carnegie Mellon University, USA)
+* Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io) (Stockholm University, Sweden)
+* Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/) (Cornell University, USA)
+* Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr) (Carnegie Mellon University, USA)
+* Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
+* Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
 
 
 #### Summer School Organizers
 
-`TODO add affiliations`
-
-* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
-* [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
-* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
-* [Michael Shulman](http://home.sandiego.edu/~shulman/)
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
+* [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
 

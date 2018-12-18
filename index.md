@@ -4,10 +4,6 @@ permalink: /
 title: "Homotopy Type Theory 2019"
 ---
 
-**THIS SITE CURRENTLY UNDER CONSTRUCTION. PLEASE EXCUSE THE MESS.**
-
-`TODO: General description of the event (make dates clearly visible).`
-
 There will be an International Conference on [Homotopy Type
 Theory](https://homotopytypetheory.org) (HoTT 2019) **from August 12th to 17th,
 2019**, at Carnegie Mellon University in Pittsburgh, USA.
@@ -15,29 +11,22 @@ Theory](https://homotopytypetheory.org) (HoTT 2019) **from August 12th to 17th,
 There will also be an associated [Homotopy Type Theory Summer
 School](/summer-school/) in the preceding week, August 7th to 10th.
 
-`TODO also point to call for papers.`
-
-`TODO also point to local information` ([like this](/local/))
-
+Further information will be posted here as it becomes available.
 
 ### Invited Speakers
 
-`TODO: add their affiliations`
-
-* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/)
-* [Dan Licata](http://dlicata.web.wesleyan.edu)
-* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/)
-* [Emily Riehl](http://www.math.jhu.edu/~eriehl/)
-* [Christian Sattler](https://www.chalmers.se/en/staff/Pages/sattler.aspx)
-* [Karol Szumilo](http://www1.maths.leeds.ac.uk/~pmtks/)
+* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) (TU Darmstadt, Germany)
+* [Dan Licata](http://dlicata.web.wesleyan.edu) (Wesleyan University, USA)
+* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge, UK)
+* [Emily Riehl](http://www.math.jhu.edu/~eriehl/) (Johns Hopkins University, USA)
+* [Christian Sattler](https://www.chalmers.se/en/staff/Pages/sattler.aspx) (University of Gothenburg, Sweden)
+* [Karol Szumilo](http://www1.maths.leeds.ac.uk/~pmtks/) (University of Leeds, UK)
 
 ##### Scientific Committee
 
-`TODO: add affiliations`
-
-* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
-* [Andrej Bauer](http://www.andrej.com/)
-* [Thierry Coquand](http://www.cse.chalmers.se/~coquand/)
-* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/)
-* [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com)
-* [Michael Shulman](http://home.sandiego.edu/~shulman/), **chair**
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
+* [Andrej Bauer](http://www.andrej.com/) (University of Ljubljana, Slovenia)
+* [Thierry Coquand](http://www.cse.chalmers.se/~coquand/) (University of Gothenburg, Sweden)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
+* [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA), **chair**
