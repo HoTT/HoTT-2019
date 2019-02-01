@@ -21,8 +21,8 @@ conference system here:
 The submission deadline is **1 April 2019**; we expect to notify accepted
 submissions by 1 May.  If you need an earlier decision for some reason
 (e.g. to apply for funding), please submit your abstract by **15 March**
-and send an email to hott2019conference@gmail.com notifying us that
-you need an early decision.
+and send an email to [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)
+notifying us that you need an early decision.
 
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
