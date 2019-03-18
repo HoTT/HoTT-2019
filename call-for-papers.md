@@ -18,11 +18,11 @@ conference system here:
 
 [https://easychair.org/conferences/?conf=hott2019](https://easychair.org/conferences/?conf=hott2019)
 
-The submission deadline is **1 April 2019**; we expect to notify accepted
-submissions by 1 May.  If you need an earlier decision for some reason
-(e.g. to apply for funding), please submit your abstract by **15 March**
+The submission deadline is **15 May 2019**; we expect to notify accepted
+submissions by 1 June.  If you need an earlier decision for some reason
+(e.g. to apply for funding), please submit your abstract by **15 April**
 and send an email to [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)
-notifying us that you need an early decision.
+notifying us that you need an early decision; early notifications are expected by 1 May.
 
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
