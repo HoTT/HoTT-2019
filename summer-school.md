@@ -6,7 +6,7 @@ title: "HoTT Summer school"
 
 **August 7 to 10**
 
-### Summer School Topics and Instructors
+### Topics and Instructors
 
 * Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/) (Carnegie Mellon University, USA)
 * Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io) (Stockholm University, Sweden)
@@ -16,7 +16,7 @@ title: "HoTT Summer school"
 * Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
 
 
-#### Summer School Organizers
+#### Organizers
 
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
