@@ -9,7 +9,7 @@ Theory](https://homotopytypetheory.org) (HoTT 2019) will take place **from Augus
 2019**, at Carnegie Mellon University in Pittsburgh, USA.
 
 The associated [Homotopy Type Theory Summer
-School](/summer-school/) will take place in the preceding week, **from August 7th to 10th.
+School](/summer-school/) will take place in the preceding week, **from August 7th to 10th**.
 
 Further information will be posted here as it becomes available.
 Questions can be addressed to [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
