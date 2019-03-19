@@ -4,7 +4,7 @@ permalink: /summer-school/
 title: "HoTT Summer school"
 ---
 
-Coming soon!
+**August 7 to 10**
 
 ### Summer School Topics and Instructors
 
