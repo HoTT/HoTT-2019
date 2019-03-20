@@ -5,13 +5,11 @@ title: "Homotopy Type Theory 2019"
 ---
 
 The International Conference on [Homotopy Type
-Theory](https://homotopytypetheory.org) (HoTT 2019) will take place **from August 12th to 17th,
-2019**, at Carnegie Mellon University in Pittsburgh, USA.
+Theory](https://homotopytypetheory.org) (HoTT 2019) will take place 
+**from August 12 to 17** at Carnegie Mellon University in Pittsburgh, USA.
 
 The associated [Homotopy Type Theory Summer
-School](https://hott.github.io/HoTT-2019/summer-school/) will take place in the preceding week, **from August 7th to 10th**.
-
-Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
+School](https://hott.github.io/HoTT-2019/summer-school/) will take place in the preceding week, **from August 7 to 10**.
 
 ### Invited Speakers
 
@@ -30,3 +28,6 @@ Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA), **chair**
+
+Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
+
