@@ -14,8 +14,8 @@ The bus fare is paid on entering the bus and is $2.75 if you pay in cash (there 
 
 ### Getting from the airport to the city
 
-Bus: It is called '28X' and its stop is found by following the Ground Transportation' signs. You have to pay $2.75 in cash when you enter the bus and there is no change. If you want to the Shadyside Inn, you should get off the 28X about one hour into the bus ride at the crossing of Fifth Avenue and South Aiken Avenue. If you need to take another bus, you will have to pay $2.75 again on entering.
+Bus: It is called '28X' and its stop is found by following the 'Ground Transportation' signs. You pay $2.75 in cash when you enter the bus and there is no change. If you want to go to the Shadyside Inn, you should get off the 28X about one hour into the bus ride at the crossing of Fifth Avenue and South Aiken Avenue.  If you need to change buses to get to your hotel, you will have to pay $2.75 again on entering.
 
 The 'Ground Transportation' signs also lead you to taxis, Ubers and Lyfts. Uber and Lyft work well in Pittsburgh. You need a smartphone to use the latter two.
 
-A more convenient way which is likely to be cheaper than uber/lyft/taxis is the 'Super Shuttle'. There is a counter for it in the terminal and it is payable by credit card. It means a big car will drive you and others directly to your destinations in Pittsburgh. You might have to wait a bit, maybe even a long time. You do not need a smartphone or app to use it.
+A more convenient way which is likely to be cheaper than uber/lyft/taxis is the 'Super Shuttle'. There is a counter for it in the terminal and it is payable by credit card. A shuttle bus will drive you and others directly to your destinations in Pittsburgh. You might have to wait a bit, maybe even a long time. You do not need a smartphone or app to use it.
