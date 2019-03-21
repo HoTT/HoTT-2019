@@ -8,7 +8,7 @@ title: "HoTT Summer school"
 
 ### Topics and Instructors
 
-* Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/) (Carnegie Mellon University, USA)
+* Cubical methods: [Anders Mortberg](http://www.cs.cmu.edu/~amoertbe/) (Stockholm University, Sweden)
 * Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io) (Stockholm University, Sweden)
 * Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/) (Cornell University, USA)
 * Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr) (Carnegie Mellon University, USA)
