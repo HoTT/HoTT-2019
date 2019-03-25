@@ -17,6 +17,10 @@
   url: /registration/
   excerpt: Conference and summer school registration
 
+# - title: Accommodation
+#   url: /accommodation/
+#   excerpt: Accommodation
+
 - title: Local information
   url: /local/
   excerpt: Travel information and registration
