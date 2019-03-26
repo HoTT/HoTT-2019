@@ -36,3 +36,7 @@ Note that due to the nature of the interface provided by the Shadyside Inn, you
 will have to make two separate bookings if you want to stay for the whole
 duration including summer school and conference.
 
+##### Financial support
+
+See also information about financial support on the [registration
+page](/registration/).
