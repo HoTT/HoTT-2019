@@ -26,15 +26,15 @@ you in contact with another participant. In this case, one of you will have to
 make the reservation and provide credit card information, but the payment can be
 made separately after arriving or at checkout.
  
-In addition, a limited number of studio suites are available for the conference
+<!-- In addition, a limited number of studio suites are available for the conference
 (not the summer school) for $99/night + 
-hotel taxes. First come, first served.
+hotel taxes. First come, first served. -->
 
 Click [here](http://www.shadysideinn.com/pro/cmu-philosophy-hott-summer-school/) 
 to reserve a two bedroom suite for the summer school (August 6-11).
 
 Click [here](http://www.shadysideinn.com/pro/cmu-international-conference-hott/)
-to reserve a two bedroom suite or a studio for the conference (August 11-18).
+to reserve a two bedroom suite for the conference (August 11-18).
 
 In both cases you have to proceed by entering the appropriate dates in the upper
 right corner of the page to access the offer at the reduced rate.
