@@ -19,6 +19,4 @@ the subject line “Funding application”, indicating your current position and
 whether you plan to attend the Summer School, Conference, or both. Please also
 have your supervisor send a letter of recommendation to the same
 [address](mailto:hott2019conference@gmail.com?subject=Recommendation for
-[name]),  
-with the subject line "Recommendation
-for [your name]”.
+[name]),  with the subject line "Recommendation for [your name]”.
