@@ -4,7 +4,8 @@ permalink: /registration/
 title: "Conference and summer school registration"
 ---
 
-Registration for the conference and the summer school will open on April 1.
+To register for the summer school and/or conference, please click
+[here](https://starrez.housing.cmu.edu/StarRezPortalConference/go/Conferences/HoTT2019), and follow the instructions on the page.
 
 Registration fees are: $60 for the summer school, $90 for the conference, and
 $150 for both together.
