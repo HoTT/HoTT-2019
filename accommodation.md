@@ -45,4 +45,4 @@ duration including summer school and conference.
 ##### Financial support
 
 See also information about financial support on the [registration
-page](/registration/).
+page](https://hott.github.io/HoTT-2019/registration/).
