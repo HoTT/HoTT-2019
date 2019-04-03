@@ -4,8 +4,13 @@ permalink: /accommodation/
 title: "Accommodation"
 ---
 
-To help with hotel accommodations, we have reserved a block of rooms at the
-**Shadyside Inn All Suites Hotel**. The Shadyside Inn is not a regular hotel,
+To help with accommodation, we have negotiated special rates at two places:
+* At the **Shadyside Inn All Suites Hotel** for both the summer school and the conference
+* At the **Hotel Indigo** for the conference only
+
+#### Shadyside Inn
+
+The Shadyside Inn is not a regular hotel,
 but a collection of furnished apartments in a cluster of buildings.  It is
 located about [20 mins walk](/images/walking-ssi.jpg) from the campus; you can
 also travel back and forth using the Inn's shuttle service, or by bus. (Address:
@@ -41,6 +46,16 @@ right corner of the page to access the offer at the reduced rate.
 Note that due to the nature of the interface provided by the Shadyside Inn, you
 will have to make two separate bookings if you want to stay for the whole
 duration including summer school and conference.
+
+#### Hotel Indigo
+
+The [Hotel Indigo](https://www.indigopgh.com/) is a [45 minutes walk](https://goo.gl/maps/zXnqpHVLuRQ2)
+from the conference location in a neighborhood with good shopping, dining, and
+transport options, and provides a complimentary shuttle service that can bring
+you to campus. Rooms are $119 + taxes for single as well as double rooms
+(two beds in the same room).
+
+Click [here](https://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=PITHB&checkInDate=11&checkInMonthYear=072019&checkOutDate=18&checkOutMonthYear=072019&rateCode=6CBARC&_PMID=99801505&GPC=HOT&cn=no&viewfullsite=true) to book.
 
 ##### Financial support
 
