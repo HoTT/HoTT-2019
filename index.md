@@ -41,9 +41,9 @@ Diego, USA), **chair**
 
 ##### Local Committee
 
+* [Mathieu Anel](http://mathieu.anel.free.fr/)
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
-* [Mathieu Anel](http://mathieu.anel.free.fr/)
 * [Mary Grace Joseph](https://www.cmu.edu/dietrich/philosophy/people/staff/mary-grace-joseph.html)
 
 Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
