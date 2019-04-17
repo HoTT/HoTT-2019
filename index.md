@@ -45,6 +45,7 @@ Diego, USA), **chair**
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * [Mary Grace Joseph](https://www.cmu.edu/dietrich/philosophy/people/staff/mary-grace-joseph.html)
+* [William Nalls](https://www.cmu.edu/dietrich/philosophy/people/phd/william-nalls.html)
 
 Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
 

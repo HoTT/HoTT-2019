@@ -5,8 +5,9 @@ title: "Accommodation"
 ---
 
 To help with accommodation, we have negotiated special rates at two places:
-* At the **Shadyside Inn All Suites Hotel** for both the summer school and the conference
-* At the **Hotel Indigo** for the conference only
+* At the **Shadyside Inn All Suites Hotel** for both the summer school **and**
+  the conference
+* At the **Hotel Indigo** for the conference **only**
 
 #### Shadyside Inn
 
@@ -31,8 +32,8 @@ you in contact with another participant. In this case, one of you will have to
 make the reservation and provide credit card information, but the payment can be
 made separately after arriving or at checkout.
  
-<!-- In addition, a limited number of studio suites are available for the conference
-(not the summer school) for $99/night + 
+<!-- In addition, a limited number of studio suites are available for the 
+conference (not the summer school) for $99/night + 
 hotel taxes. First come, first served. -->
 
 Click [here](http://www.shadysideinn.com/pro/cmu-philosophy-hott-summer-school/) 
@@ -49,13 +50,13 @@ duration including summer school and conference.
 
 #### Hotel Indigo
 
-The [Hotel Indigo](https://www.indigopgh.com/) is a [45 minutes walk](https://goo.gl/maps/zXnqpHVLuRQ2)
-from the conference location in a neighborhood with good shopping, dining, and
-transport options, and provides a complimentary shuttle service that can bring
-you to campus. Rooms are $119 + taxes for single as well as double rooms
-(two beds in the same room).
+The [Hotel Indigo](https://www.indigopgh.com/) is a [45 minutes
+walk](https://goo.gl/maps/zXnqpHVLuRQ2) from the conference location in a
+neighborhood with good shopping, dining, and transport options, and provides a
+complimentary shuttle service that can bring you to campus. Rooms are $119 +
+taxes for single as well as some double rooms (two beds in the same room).
 
-Click [here](https://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=PITHB&checkInDate=11&checkInMonthYear=072019&checkOutDate=18&checkOutMonthYear=072019&rateCode=6CBARC&_PMID=99801505&GPC=HOT&cn=no&viewfullsite=true) to book.
+Click [here](https://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=PITHB&checkInDate=11&checkInMonthYear=072019&checkOutDate=18&checkOutMonthYear=072019&rateCode=6CBARC&_PMID=99801505&GPC=HOT&cn=no&viewfullsite=true) to book (special rate **only**    August 11-18, not for the summer school).
 
 ##### Financial support
 
