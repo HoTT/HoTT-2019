@@ -25,9 +25,10 @@
   url: /local/
   excerpt: Travel information and registration
 
+
 - title: Poster
   url: /poster/
-  excerpt: Posters for the conference.
+  excerpt: Conference Poster.
 
 # This will appear later
 # - title: Programme

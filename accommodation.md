@@ -13,7 +13,11 @@ To help with accommodation, we have negotiated special rates at two places:
 
 The Shadyside Inn is not a regular hotel,
 but a collection of furnished apartments in a cluster of buildings.  It is
-located about [20 mins walk](/images/walking-ssi.jpg) from the campus; you can
+located about 20 mins walk from the campus: 
+
+![SSI to campus](/images/walking-ssi.jpg)
+
+You can
 also travel back and forth using the Inn's shuttle service, or by bus. (Address:
 [5405 Fifth Ave, Pittsburgh, PA, United States,
 15232](https://maps.google.com/?q=5405+Fifth+Ave,+Pittsburgh,+PA,+United+States,+15232)).
