@@ -21,14 +21,6 @@ conference system here:
 The submission deadline is **15 May 2019**; we expect to notify accepted
 submissions by 1 June.
 
-A prize of $500 and distinguished billing will be awarded to the best
-paper submitted by a student (or recently graduated student).  To be
-eligible for this prize, you must include in your submission (or send
-separately to
-[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a
-link to a preprint version of your paper (e.g. on arXiv or a private
-web space).
-
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
 submissions will not be refereed, and submission is not a publication
@@ -37,4 +29,14 @@ information, including registration, accomodation options, and travel,
 will be available as the conference approaches on this web site.
 
 Please email [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com) with any questions.
+
+##### Best Student Paper Award
+
+A prize of $500 (and distinguished billing in the conference program)
+will be awarded to the best paper submitted by a student (or recently
+graduated student).  To be eligible for this prize, you must include
+in your submission (or send separately to
+[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a
+link to a preprint version of your paper (e.g. on arXiv or a private
+web space).
 
