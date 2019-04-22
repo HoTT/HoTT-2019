@@ -19,10 +19,15 @@ conference system here:
 [https://easychair.org/conferences/?conf=hott2019](https://easychair.org/conferences/?conf=hott2019)
 
 The submission deadline is **15 May 2019**; we expect to notify accepted
-submissions by 1 June.  If you need an earlier decision for some reason
-(e.g. to apply for funding), please submit your abstract by **15 April**
-and send an email to [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)
-notifying us that you need an early decision; early notifications are expected by 1 May.
+submissions by 1 June.
+
+A prize of $500 and distinguished billing will be awarded to the best
+paper submitted by a student (or recently graduated student).  To be
+eligible for this prize, you must include in your submission (or send
+separately to
+[hott2019conference@gmail.com](mailto:hott2019conference@gmail.com)) a
+link to a preprint version of your paper (e.g. on arXiv or a private
+web space).
 
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
