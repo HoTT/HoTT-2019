@@ -47,5 +47,23 @@ Diego, USA), **chair**
 * [Mary Grace Joseph](https://www.cmu.edu/dietrich/philosophy/people/staff/mary-grace-joseph.html)
 * [William Nalls](https://www.cmu.edu/dietrich/philosophy/people/phd/william-nalls.html)
 
-Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
 
+#### Sponsors
+
+[![Air Force Office of Scientific Research](/images/afosr-logo.jpg){: width="120"}](https://www.wpafb.af.mil/afrl/afosr/)
+&nbsp;&nbsp;&nbsp;
+[![National Science Foundation](/images/nsf-logo.png){: width="128"}](https://www.nsf.gov/)
+&nbsp;&nbsp;&nbsp;
+[![Dietrich College of Humanities and Social Sciences](/images/cmu-dietrich-college-logo.jpg){: width="176"}](https://www.cmu.edu/dietrich/)
+&nbsp;&nbsp;&nbsp;
+[![CMU Department of Philosophy](/images/cmu-philosophy-logo.png){: width="152"}](https://www.cmu.edu/dietrich/philosophy/)
+
+We also acknowledge generous support from [Ilyas
+Khan](https://hott.github.io/HoTT-2019/ilyas-khan/).
+
+
+<br/>
+
+
+<small> Contact: [hott2019conference@gmail.com](mailto:hott2019conference@gmail.com).
+</small>

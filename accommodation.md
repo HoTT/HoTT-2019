@@ -5,17 +5,19 @@ title: "Accommodation"
 ---
 
 To help with accommodation, we have negotiated special rates at two places:
+
 * At the **Shadyside Inn All Suites Hotel** for both the summer school **and**
   the conference
 * At the **Hotel Indigo** for the conference **only**
 
 #### Shadyside Inn
 
-The Shadyside Inn is not a regular hotel,
-but a collection of furnished apartments in a cluster of buildings.  It is
-located about 20 mins walk from the campus: 
+The Shadyside Inn is not a regular hotel, but a collection of furnished
+apartments in a cluster of buildings.  It is located about 20 mins walk from the
+campus: 
 
-![SSI to campus](/images/walking-ssi.jpg)
+[![SSI to campus](/images/walking-ssi.jpg){:
+width="650"}](https://goo.gl/maps/r1fZZbhSUC75mheY8)
 
 You can
 also travel back and forth using the Inn's shuttle service, or by bus. (Address:
