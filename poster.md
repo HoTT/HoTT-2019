@@ -1,7 +1,9 @@
 ---
 layout: page
 permalink: /poster/
-title: "Links to posters"
+title: "Conference poster"
 ---
 
-[Here](/images/HoTT-2019-poster.pdf) is the conference poster.
+Click image for pdf to print.
+
+[![Conference poster](/images/HoTT-2019-poster.jpg){: width="700"}](/images/HoTT-2019-poster.pdf)
