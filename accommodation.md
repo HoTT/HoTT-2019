@@ -47,10 +47,15 @@ Click [here](http://www.shadysideinn.com/pro/cmu-international-conference-hott/)
 to reserve a two bedroom suite for the conference (August 11-18).
 
 In both cases you have to proceed by entering the appropriate dates in the upper
-right corner of the page to access the offer at the reduced rate.
-Note that due to the nature of the interface provided by the Shadyside Inn, you
-will have to make two separate bookings if you want to stay for the whole
-duration including summer school and conference.
+right corner of the page to access the offer at the reduced rate. 
+
+Note that due
+to the nature of the interface provided by the Shadyside Inn, you will have to
+make two separate bookings if you want to stay for the whole duration including
+summer school and conference. In this case **each of the bookings has to be made
+through the appropriate link above**, so after the first booking you have to
+come back to this page and click the other link in order to take advantage of
+the reduced rate.
 
 #### Hotel Indigo
 
