@@ -24,17 +24,15 @@ also travel back and forth using the Inn's shuttle service, or by bus. (Address:
 [5405 Fifth Ave, Pittsburgh, PA, United States,
 15232](https://maps.google.com/?q=5405+Fifth+Ave,+Pittsburgh,+PA,+United+States,+15232)).
 
-The reserved accommodations are mostly in [two bedroom
+The reserved accommodations are in [two bedroom
 suites](http://www.shadysideinn.com/hotel-suites/two-bedroom-suite/), at a rate
 of $119/night + hotel taxes. These are spacious suites including a living room,
 kitchen and dining area, two bedrooms and a bathroom. We assume that most of you
-who choose these suites will want to share. If you already have a suite-mate to
-share with, great; see below for instructions on how to make a shared
-reservation. If you would like to find another participant to share with, you
-can send us an 
-[email](mailto:hott2019conference@gmail.com?subject=suite mate at Shadyside Inn) 
-and we'll try to put
-you in contact with another participant. In this case, one of you will have to
+who choose these suites will want to share. If you would like to find another
+participant to share with, you can send us an
+[email](mailto:hott2019conference@gmail.com?subject=suite mate at Shadyside Inn)
+and we'll try to put you in contact with another participant.
+In any case, one of you will have to
 make the reservation and provide credit card information, but the payment can be
 made separately after arriving or at checkout.
  
