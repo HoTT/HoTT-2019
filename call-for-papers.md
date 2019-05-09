@@ -18,8 +18,8 @@ conference system here:
 
 [https://easychair.org/conferences/?conf=hott2019](https://easychair.org/conferences/?conf=hott2019)
 
-The submission deadline is **15 May 2019**; we expect to notify accepted
-submissions by 1 June.
+The submission deadline is **1 June 2019**; we expect to notify accepted
+submissions by 15 June.
 
 This conference is run on the "mathematics model" rather than the
 "computer science model": full papers will not be submitted,
