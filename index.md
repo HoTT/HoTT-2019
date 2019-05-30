@@ -35,14 +35,10 @@ UK)
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon 
 University, USA)
 * [Andrej Bauer](http://www.andrej.com/) (University of Ljubljana, Slovenia)
-* [Thierry Coquand](http://www.cse.chalmers.se/~coquand/) (University of 
-Gothenburg, Sweden)
-* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, 
-UK)
-* [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm 
-University, Sweden)
-* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San 
-Diego, USA), **chair**
+* [Thierry Coquand](http://www.cse.chalmers.se/~coquand/) (University of Gothenburg, Sweden)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
+* [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA), **chair**
 
 ##### Local Committee
 
@@ -51,6 +47,7 @@ Diego, USA), **chair**
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/)
 * [Mary Grace Joseph](https://www.cmu.edu/dietrich/philosophy/people/staff/mary-grace-joseph.html)
 * [William Nalls](https://www.cmu.edu/dietrich/philosophy/people/phd/william-nalls.html)
+* [Colin Zwanziger](https://www.cmu.edu/dietrich/philosophy/people/phd/colin-zwanziger.html)
 
 
 #### Sponsors
