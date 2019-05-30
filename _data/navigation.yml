@@ -25,6 +25,9 @@
   url: /local/
   excerpt: Travel information and registration
 
+- title: Participants
+  url: /participants/
+  excerpt: Participants
 
 - title: Poster
   url: /poster/
