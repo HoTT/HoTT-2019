@@ -9,9 +9,9 @@
   excerpt: Information about the HoTT 2019 summer school
 
 # Will be replaced by "Accepted papers" later
-- title: Call for papers
-  url: /call-for-papers/
-  excerpt: Call for papers and submisson information
+# - title: Call for papers
+#   url: /call-for-papers/
+#   excerpt: Call for papers and submisson information
 
 - title: Registration
   url: /registration/
@@ -37,5 +37,3 @@
 # - title: Programme
 #  url: /programme/
 #  excerpt: Schedule of all events
-
-
