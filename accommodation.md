@@ -10,6 +10,16 @@ To help with accommodation, we have negotiated special rates at two places:
   the conference
 * At the **Hotel Indigo** for the conference **only**
 
+In each case, special rates are only offered for a limited number of rooms, and
+reservations have to be made before the following **cut-off dates**:
+
+* Cut-off for Shadyside Inn summer school dates (Aug 6-11) : July 6, 5PM EDT
+* Cut-off for Shadyside Inn conference dates (Aug 11-18) : June 26, 5PM EDT
+* Cut-off for Hotel Indigo conference dates (Aug 11-18) : July 22
+
+Attention, the Shadyside Inn cut-off for the confernce is before that
+for the summer school.
+
 #### Shadyside Inn
 
 The Shadyside Inn is not a regular hotel, but a collection of furnished
@@ -66,8 +76,3 @@ complimentary shuttle service that can bring you to campus. Rooms are $119 +
 taxes for single as well as some double rooms (two beds in the same room).
 
 Click [here](https://www.hotelindigo.com/redirect?path=asearch&brandCode=IN&localeCode=en&regionCode=1&hotelCode=PITHB&checkInDate=11&checkInMonthYear=072019&checkOutDate=18&checkOutMonthYear=072019&rateCode=6CBARC&_PMID=99801505&GPC=HOT&cn=no&viewfullsite=true) to book (special rate **only**    August 11-18, not for the summer school).
-
-##### Financial support
-
-See also information about financial support on the [registration
-page](https://hott.github.io/HoTT-2019/registration/).
