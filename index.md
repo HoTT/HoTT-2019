@@ -4,8 +4,8 @@ permalink: /
 title: "Homotopy Type Theory 2019"
 ---
 
-The International [**Conference on Homotopy Type
-Theory**](https://homotopytypetheory.org) (HoTT 2019) will take place 
+The International **Conference on [Homotopy Type
+Theory](https://homotopytypetheory.org)** (HoTT 2019) will take place 
 
 >**Monday August 12 to Saturday August 17 (noon)** 
 
@@ -17,7 +17,7 @@ preceding week,
 
 > **Wednesday August 7 to Saturday August 10**.
 
-### Invited Speakers
+### Invited Conference Speakers
 
 * [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) 
 (TU Darmstadt, Germany)
@@ -39,6 +39,11 @@ University, USA)
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
 * [Peter LeFanu Lumsdaine](http://peterlefanulumsdaine.com) (Stockholm University, Sweden)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA), **chair**
+
+##### Proceedings
+
+A proceedings volume will be published as a special issue of [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science), edited by Dan Licata and Peter LeFanu Lumsdaine.  Submissions will be open for several months after HoTT 2019; details will be announced nearer the time.
+
 
 ##### Local Committee
 
