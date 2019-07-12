@@ -13,7 +13,7 @@ To help with accommodation, we have negotiated special rates at two places:
 In each case, special rates are only offered for a limited number of rooms, and
 reservations have to be made before the following **cut-off dates**:
 
-* Cut-off for Shadyside Inn summer school dates (Aug 6-11) : July 6, 5PM EDT
+* ~~Cut-off for Shadyside Inn summer school dates (Aug 6-11) : July 6, 5PM EDT~~ (passed)
 * ~~Cut-off for Shadyside Inn conference dates (Aug 11-18) : June 26, 5PM EDT~~ (passed)
 * Cut-off for Hotel Indigo conference dates (Aug 11-18) : July 22
 
