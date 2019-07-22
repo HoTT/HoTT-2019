@@ -80,7 +80,7 @@ This talk will present results about localization at a prime in homotopy type th
 
 #### Daniel Cicala: The Borsuk-Ulam Theorem in Real-Cohesive Homotopy Type Theory
 
-Real-cohesive homotopy type theory is an extension of homotopy type theory obtained by adding a string of modalities &#643; ⊣ ♭ ⊣ ♯ to encode Lawvere's axiomatic cohesion.  The &#643; modality compares higher inductive types with their set-theoretic counterparts, e.g. the circle as a 0-type <tt>base</tt> and 1-type <tt>loop : base &rarr; base</tt> and the circle as a set { (x,y) ❘ x,y &in; R and x^2+y^2=1 }.  The ♭ modality allows for non-continuous constructions, such as choosing the fixed point in the proof of Brower's fixed point theorem.  In this talk, we extend the use-case for real-cohesive homotopy type theory by importing a HoTT version of the classic Borsuk-Ulam theorem.  
+Real-cohesive homotopy type theory is an extension of homotopy type theory obtained by adding a string of modalities &#643; ⊣ ♭ ⊣ ♯ to encode Lawvere's axiomatic cohesion.  The &#643; modality compares higher inductive types with their set-theoretic counterparts, e.g. the circle as a 0-type <tt>base</tt> and 1-type <tt>loop : base &rarr; base</tt> and the circle as a set { (x,y) ❘ x,y ∈ R and x^2+y^2=1 }.  The ♭ modality allows for non-continuous constructions, such as choosing the fixed point in the proof of Brower's fixed point theorem.  In this talk, we extend the use-case for real-cohesive homotopy type theory by importing a HoTT version of the classic Borsuk-Ulam theorem.  
 
 #### Thierry Coquand: Some models of univalent type theory
 
@@ -178,7 +178,7 @@ We present a new constructive model of univalent type theory based on cubical se
 
 A modality is a way to change what it means to identify two terms of a type. The n-truncation modality asks for an identification to only contain n homotopical dimensions of information, while the shape modality of Shulman's Cohesive HoTT allows us to identify points by giving a continuous path between them . In this talk, we will see functions through the modal prism. There are many notions of function associated to a modality in use: modally truncated, modally connected, modally etale, modal covering. To these we will add the notions of a modal fibration and a modally constant family, and organize them all into a single diagram: the modal prism. 
 
-We will then see how these notions can be used to do algebraic topology in Real Cohesive HoTT. As an example, we will calculate the homotopy type of the topological circle { (x,y) &in; R^2 ❘ x^2 + y^2 = 1} without first expressing it as a higher inductive type.
+We will then see how these notions can be used to do algebraic topology in Real Cohesive HoTT. As an example, we will calculate the homotopy type of the topological circle { (x,y) ∈ R^2 ❘ x^2 + y^2 = 1} without first expressing it as a higher inductive type.
 
 #### Paige North: Towards a Higher Structure Identity Principle - a progress report
 
