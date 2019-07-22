@@ -14,7 +14,7 @@ Coming soon!
 
 Based on a loose correspondence between, on one hand, a first order version of intuitionistic logic with preeminence of equality and equivalence over implication, and on the other hand, homotopic equivalence properties of identity, Π, Σ and coproduct types, we formally restate homotopic type theory (HoTT) with equality and homotopic equivalence playing a preeminent role. In addition to this, we exhibit a calculational way of writing effective and elegant formal proofs based on appropriate notations and formats, as well as algebraic identities and inference rules involving the homotopic equivalences with which we restate HoTT. 
 
-#### Thorsten Altenkirch: Naturality for free (the category interpretation of directed  type theory)
+#### Thorsten Altenkirch: Naturality for free (the category interpretation of directed type theory)
 
 The idea that types are abstract, that is they cannot be inspected, underlies parametricity in particular the "free theorem" that all polymorphic functions are natural, and univalence (isomorphic types are equal). What is the relation between these two principles? We design a directed type theory which is inspired by a refinement of the groupoid model, replacing groupoids by categories. This Type Theory features polarities, directed version of the usual type formers (Pi and Sigma), a directed hom-type replacing symmetric equality and an operation "core" that constructs the groupoid of invertible maps, a directed form of path induction and directed univalence. From these principle we can derive both the usual univalence for groupoids and naturality for polymorphic functions. Our theory is truncated but we envisage that the syntax semantics can be extended to higher categories using complete Segal spaces.
 
@@ -118,9 +118,9 @@ We provide a partial solution to the problem of defining a constructive version 
 
 This work begins with the observation that the Voevodsky-Awodey-Warren-Kapulkin-Lumsdaine homotopical semantics for type theory can also be used to give a very simple semantics for (intuitionistic) first-order logic. We give a "functorial" formulation of the semantics using the framework of structured Grothendieck fibrations, by showing that for (suitable) model categories C, the fibration obtained by taking the fiberwise-homotopy-category of the codomain fibration over C has the structure needed to interpret intuitionistic first-order logic. We then prove an abstract result about such structured fibrations which implies a "homotopy-invariance" property for the homotopical semantics. To do this, we must make sense of the notion "homotopy-equivalent structures" -- which, in the case of interest, corresponds to "pseudo-naturally isomorphic functors into the 2-category of spaces" -- in the general context of the "fibrational semantics". Hence, we show that the base category of a fibration (satisfying certain mild assumptions) automatically carries a 2-categorical structure -- the 2-cells between f and g being "proofs (in the sense of the fibration) that f and g are equal" -- which in the case of interest recovers the usual 2-category of spaces.
 
-#### Andr&eacute; Joyal:  Problems and conjectures on polynomial functors and monads in &infin;-toposes
+#### Andr&eacute; Joyal: Problems and conjectures on polynomial functors and monads in &infin;-toposes
 
-Abstract: The theory of polynomial functors and monads has applications to type theory and to the theory of operads. The theory was recently extended to polynomial functors in the category of spaces by Gepner, Haugseng and Kock. We conjecture that the (&infin;,2)-category of polynomial functors (in any &infin;-topos) is cartesian closed (extending a result of Fiore, Gambino, Hyland and Winskel).The evidence depends on ideas from type theory (Awodey, Fiore). We also conjecture that the &infin;-category of bimodules between polynomial monads (in any &infin;-topos) is cartesian closed (extending a result of Gambino and J). The conjectures can be understood in terms of a conjectural 2-algebraic geometry. There is a connection with Goodwillie's calculus.
+The theory of polynomial functors and monads has applications to type theory and to the theory of operads. The theory was recently extended to polynomial functors in the category of spaces by Gepner, Haugseng and Kock. We conjecture that the (&infin;,2)-category of polynomial functors (in any &infin;-topos) is cartesian closed (extending a result of Fiore, Gambino, Hyland and Winskel).The evidence depends on ideas from type theory (Awodey, Fiore). We also conjecture that the &infin;-category of bimodules between polynomial monads (in any &infin;-topos) is cartesian closed (extending a result of Gambino and J). The conjectures can be understood in terms of a conjectural 2-algebraic geometry. There is a connection with Goodwillie's calculus.
 
 #### Nachiket Karnick: The encode-decode method and higher group actions
 
@@ -136,7 +136,7 @@ We will observe that this structure is an avatar of one the equivalent definitio
 
 Time permitting, we will then argue that this perspective suggests a syntax for homotopy dependent linear type theory, a conjectured type theory which should have models in all infinity topoi of parameterized stable infinity categories. 
 
-#### Dan Licata: TBA
+#### Dan Licata: TBA {#licata}
 
 TBA
 
