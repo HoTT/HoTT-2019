@@ -15,7 +15,7 @@ reservations have to be made before the following **cut-off dates**:
 
 * ~~Cut-off for Shadyside Inn summer school dates (Aug 6-11) : July 6, 5PM EDT~~ (passed)
 * ~~Cut-off for Shadyside Inn conference dates (Aug 11-18) : June 26, 5PM EDT~~ (passed)
-* Cut-off for Hotel Indigo conference dates (Aug 11-18) : July 22
+* Cut-off for Hotel Indigo conference dates (Aug 11-18) : July 29
 
 Attention, the Shadyside Inn cut-off for the conference is before that
 for the summer school.
