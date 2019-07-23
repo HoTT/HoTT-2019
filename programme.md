@@ -22,7 +22,7 @@ The proposal is related to recent work by Paige North. We acknowledge useful dis
 
 #### Steve Awodey: A Quillen model structure on the category of cartesian cubical sets {#awodey}
 
-We construct a Quillen model structure on cubical sets using ideas derived from the recently given constructions of models of cubical type theory.   Some of these ideas are apparently new to homotopical algebra.  
+We axiomatize the construction of a Quillen model structure on cubical sets, using ideas derived from recent constructions of models of cubical type theory. Some of these ideas are apparently new to homotopical algebra. The construction applies to cartesian cubical sets, as well as to the equivariant cubical model structure developed in recent joint work with Cavallo, Coquand, Riehl and Sattler.
 
 #### Bruno Bentzen: Informal cubical type theory {#bentzen}
 
@@ -82,9 +82,9 @@ This talk will present results about localization at a prime in homotopy type th
 
 Real-cohesive homotopy type theory is an extension of homotopy type theory obtained by adding a string of modalities &#643; ⊣ ♭ ⊣ ♯ to encode Lawvere's axiomatic cohesion.  The &#643; modality compares higher inductive types with their set-theoretic counterparts, e.g. the circle as a 0-type <tt>base</tt> and 1-type <tt>loop : base &rarr; base</tt> and the circle as a set { (x,y) ❘ x,y ∈ R and x<sup>2</sup>+y<sup>2</sup>=1 }.  The ♭ modality allows for non-continuous constructions, such as choosing the fixed point in the proof of Brower's fixed point theorem.  In this talk, we extend the use-case for real-cohesive homotopy type theory by importing a HoTT version of the classic Borsuk-Ulam theorem.  
 
-#### Thierry Coquand: Some models of univalent type theory {#coquand}
+#### Thierry Coquand: Some constructive models of univalent type theory {#coquand}
 
-I would like to present ongoing work (with Steve Awodey and Emily Riehl) on a refined notion of cartesian cubical sets. For this notion, we can show in a classical metatheory that the (-1)-types are the Booleans and the 0-types are the sets. Here is a possible application of such  constructive models of univalence. If we relativize what we have done to presheaf models, we get directly a model of type theory and a model structure on cubical presheaves.  The (-1)-types (resp. 0-types) for this model are not the sieves (resp. ordinary presheaves) but they become them (in a classical metatheory)  if we apply a suitable left exact modality.  
+I would like to first present ongoing work (with Steve Awodey, Evan Cavallo, Emily Riehl and Christian Sattler) on a refined notion of cartesian cubical sets. For this notion, we can show in a classical metatheory that the (-1)-types are the Booleans and the 0-types are the sets. I will then try to explain a possible application of such constructive models of univalence. If we relativize what we have done to presheaf models, we get directly a model of type theory and a model structure on cubical presheaves, which is obtained from a constructive model of univalent type theory (as explained in Steve’s talk). The (-1)-types (resp. 0-types) for this model are not the sieves (resp. ordinary presheaves) but they become them (in a classical metatheory) if we apply a suitable left exact modality.
 
 #### Eric Finster: Coherent Polynomial Monads and Their Algebras {#finster}
 
