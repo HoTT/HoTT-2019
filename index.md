@@ -19,16 +19,16 @@ preceding week,
 
 ### Invited Conference Speakers
 
-* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) 
-(TU Darmstadt, Germany)
-* [Dan Licata](http://dlicata.web.wesleyan.edu) (Wesleyan University, USA)
-* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge, UK)
-* [Emily Riehl](http://www.math.jhu.edu/~eriehl/) (Johns Hopkins University, 
-USA)
-* [Christian Sattler](https://www.chalmers.se/en/staff/Pages/sattler.aspx) 
-(University of Gothenburg, Sweden)
-* [Karol Szumilo](http://www1.maths.leeds.ac.uk/~pmtks/) (University of Leeds, 
-UK)
+* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) (TU Darmstadt, Germany) -- TBA
+* [Dan Licata](http://dlicata.web.wesleyan.edu) (Wesleyan University, USA) -- TBA
+* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge, UK) -- [Presheaves, Constructive Sets and Univalence](programme#pitts)
+* [Emily Riehl](http://www.math.jhu.edu/~eriehl/) (Johns Hopkins University, USA) -- [The equivariant uniform Kan fibration model of cubical homotopy type theory](programme#riehl)
+* [Christian Sattler](https://www.chalmers.se/en/staff/Pages/sattler.aspx) (University of Gothenburg, Sweden) -- [Homotopy canonicity](programme#sattler)
+* [Karol Szumilo](http://www1.maths.leeds.ac.uk/~pmtks/) (University of Leeds, UK) -- [Internal Languages of Higher Categories](programme#szumilo)
+
+There will also be a special **Vladimir Voevodsky Memorial Lecture** given by
+
+* André Joyal (Université du Québec à Montréal, Canada) -- [Problems and conjectures on polynomial functors and monads in &infin;-toposes](programme#joyal)
 
 ##### Scientific Committee
 

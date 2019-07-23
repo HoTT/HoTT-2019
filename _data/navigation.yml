@@ -25,15 +25,14 @@
   url: /local/
   excerpt: Travel information and registration
 
+# - title: Poster
+#   url: /poster/
+#   excerpt: Conference Poster.
+
+- title: Programme
+  url: /programme/
+  excerpt: Schedule of all events
+
 - title: Participants
   url: /participants/
   excerpt: Participants
-
-- title: Poster
-  url: /poster/
-  excerpt: Conference Poster.
-
-# This will appear later
-# - title: Programme
-#  url: /programme/
-#  excerpt: Schedule of all events

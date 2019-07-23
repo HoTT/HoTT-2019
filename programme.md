@@ -192,9 +192,9 @@ This project is joint work with Benedikt Ahrens, Mike Shulman, and Dimitris Tsem
 
 Presheaf categories have been used to make models of univalent type theory, first in classical set theory (Voevodsky et al) and later in some form of constructive set theory (Coquand et al). Here I will concentrate on Intuitionistic Zermelo-Fraenkel set theory with Atoms (IZFA). Back in 1980 it was noticed by Mike Fourman, Dana Scott and others that to every presheaf category [C<sup>op</sup>,Set] one can associate a Kripke-like forcing interpretation of IZFA. Within that model of set theory there is a category of "global" sets and functions equivalent to [C<sup>op</sup>,Set] (and within that, a full subcategory equivalent to C).  From this point of view, by relaxing from classical to intuitionistic logic, without loss of generality one can regard presheaves and their morphisms as just some particular sets and functions.  So things that one might do concretely with presheaves (models of univalence!) can in principle be done in IZFA set theory and might look simpler there, because the set-theoretic interpretation of dependent types is straightforward. In this talk I will explore what is needed for a universe of sets in IZFA to model univalence, concentrating on the case when intensional equality is given by paths from an "interval" set.
 
-#### Emily Riehl: TBA {#riehl}
+#### Emily Riehl: The equivariant uniform Kan fibration model of cubical homotopy type theory {#riehl}
 
-TBA
+In joint work with Steve Awodey, Evan Cavallo, Thierry Coquand, and Christian Sattler, we introduce a constructive model for homotopy type theory on a category of cubical sets that defines a model category that is Quillen equivalent to spaces and supports "cellularly-inductive" constructions. This latter property is a feature of the cube category we use: the cartesian cube category, which is an Eilenberg-Zilber generalized Reedy category. Our model is a variation of ABCFHL obtained by demanding that the fibrations satisfy an additional equivariance condition on top of the uniform Kan condition. As a consequence, all quotients of cubes by groups of symmetries are contractible. Time permitting, we sketch the proof of the comparison Quillen equivalence, which makes heavy use of these contractible cube quotients.
 
 #### Egbert Rijke: Agda formalization of homotopy pullbacks and pushouts using cubical diagrams {#rijke}
 
@@ -248,9 +248,9 @@ We extend this to dependently-sorted algebraic theories: For an inverse category
 
 The axiom of Church's thesis states that all functions from the naturals to the naturals are computable. I will talk about two new results on Church's thesis in cubical assemblies. The first is that Church's thesis is false in the cubical assemblies model of cubical type theory itself. The second is that Church's thesis holds in a reflective subuniverse (or more precisely lex modality) of cubical assemblies, and is therefore consistent with univalent type theory.
 
-#### Karol Szumilo: TBA {#szumilo}
+#### Karol Szumilo: Internal Languages of Higher Categories {#szumilo}
 
-TBA
+Lambek and Scott proved that &lambda;-calculus is the internal language of cartesian closed categories which they formalized as an equivalence between the category of &lambda;-calculi and the category of cartesian closed categories. Similarly, they showed that the category of higher intuitionistic type theories is (nearly) equivalent to the category of elementary toposes. I will present joint work with Chris Kapulkin in which we investigate HoTT variants of such statements, i.e., that certain (&infin;,1)-categories of homotopy type theories (e.g., ones with identity types and &Sigma;-types) are equivalent to certain (&infin;,1)-categories of (&infin;,1)-categories (e.g., ones with finite limits).
 
 #### Taichi Uemura: A General Framework for the Semantics of Type Theory {#uemura}
 
