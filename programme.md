@@ -6,25 +6,24 @@ title: "Programme"
 
 ### Schedule
 
-<table>
-<tr><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
-<tr><td>9:30</td><td>registration</td><td rowspan="2"><a href="#pitts">Pitts</a></td><td rowspan="2"><a href="#licata">Licata</a></td><td rowspan="2"><a href="#szumilo">Szumilo</a></td><td rowspan="2"><a href="#sattler">Sattler</a></td><td rowspan="2"><a href="#buchholtz">Buchholtz</a> </td></tr>
-<tr><td>10:00</td><td rowspan="2"><a href="#riehl">Riehl</a></td></tr>
-<tr><td>10:30</td><td><a href="#shulman">Shulman</a></td><td><a href="#weinberger">Weinberger</a></td><td><a href="#stenzel">Stenzel</a></td><td><a href="#sterling">Sterling</a></td><td><a href="#finster">Finster</a> </td></tr>
-<tr><td>11:00</td><td>Break</td><td>Break</td><td>Break</td><td>Break</td><td>Break</td><td>Break </td></tr>
-<tr><td>11:30</td><td><a href="#awodey">Awodey</a></td><td><a href="#christensen">Christensen</a></td><td><a href="#altenkirch">Altenkirch</a></td><td>[van den Berg](#vandenberg)</td><td><a href="#subramaniam">Subramaniam</a></td><td><a href="#joyal">Joyal</a> </td></tr>
-<tr><td>12:00</td><td><a href="#coquand">Coquand</a></td><td><a href="#karnick">Karnick</a></td><td><a href="#weaver">Weaver</a></td><td><a href="#gambino">Gambino</a></td><td><a href="#brunerie">Brunerie</a></td><td> </td></tr>
-<tr><td>12:30</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch </td></tr>
-<tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td></td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a></td><td>End </td></tr>
-<tr><td>2:30</td><td><a href="#swan">Swan</a></td><td><a href="#north">North</a></td><td></td><td><a href="#myers">Myers</a></td><td><a href="#bidlingmaier">Bidlingmaier</a></td><td> </td></tr>
-<tr><td>3:00</td><td><a href="#francese">Francese</a></td><td><a href="#rose">Rose</a></td><td></td><td><a href="#cicala">Cicala</a></td><td>[Lo Monaco](#lomonaco)</td><td> </td></tr>
-<tr><td>3:30</td><td>Break</td><td>Break</td><td></td><td>Break</td><td>Break</td><td> </td></tr>
-<tr><td>4:00</td><td><a href="#choudhury">Choudhury</a></td><td><a href="#sozeau">Sozeau</a></td><td></td><td><a href="#lessard">Lessard</a></td><td><a href="#moeneclaey">Moeneclaey</a></td><td> </td></tr>
-<tr><td>4:30</td><td><a href="#cagne">Cagne</a></td><td><a href="#lynge">Lynge</a></td><td></td><td><a href="#white">White</a></td><td><a href="#bentzen">Bentzen</a></td><td> </td></tr>
-<tr><td>5:00</td><td><a href="#helfer">Helfer</a></td><td></td><td></td><td></td><td><a href="#acosta">Acosta</a></td><td> </td></tr>
-<tr><td>5:30</td><td>Reception</td><td></td><td></td><td></td><td></td><td> </td></tr>
-<tr><td>6:00</td><td></td><td></td><td></td><td>Dinner</td><td> </td></tr>
-</table>
+| | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+|--|--|--|--|--|--|--|
+| 9:30 | registration | [Pitts](#pitts) | [Licata](#licata) | [Szumilo](#szumilo) | [Sattler](#sattler) | [Buchholtz](#buchholtz) |
+| 10:00 | [Riehl](#riehl) |  |  |  |  |  |
+| 10:30 |  | [Shulman](#shulman) | [Weinberger](#weinberger) | [Stenzel](#stenzel) | [Sterling](#sterling) | [Finster](#finster) |
+| 11:00 | Break | Break | Break | Break | Break | Break |
+| 11:30 | [Awodey](#awodey) | [Christensen](#christensen) | [Altenkirch](#altenkirch) | [van den Berg](#vandenberg) | [Subramaniam](#subramaniam) | [Joyal](#joyal) |
+| 12:00 | [Coquand](#coquand) | [Karnick](#karnick) | [Weaver](#weaver) | [Gambino](#gambino) | [Brunerie](#brunerie) |  |
+| 12:30 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
+| 2:00 | [Mörtberg](#mortberg) | [Rijke](#rijke) |  | [Zwanziger](#zwanziger) | [Uemura](#uemura) | End |
+| 2:30 | [Swan](#swan) | [North](#north) |  | [Myers](#myers) | [Bidlingmaier](#bidlingmaier) |  |
+| 3:00 | [Francese](#francese) | [Rose](#rose) |  | [Cicala](#cicala) | [Lo Monaco](#lomonaco) |  |
+| 3:30 | Break | Break |  | Break | Break |  |
+| 4:00 | [Choudhury](#choudhury) | [Sozeau](#sozeau) |  | [Lessard](#lessard) | [Moeneclaey](#moeneclaey) |  |
+| 4:30 | [Cagne](#cagne) | [Lynge](#lynge) |  | [White](#white) | [Bentzen](#bentzen) |  |
+| 5:00 | [Helfer](#helfer) |  |  |  | [Acosta](#acosta) |  |
+| 5:30 | Reception |  |  |  |  |  |
+| 6:00 |  |  |  | Dinner |  |
 
 ### Titles and Abstracts
 
