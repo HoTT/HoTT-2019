@@ -136,9 +136,11 @@ We will observe that this structure is an avatar of one the equivalent definitio
 
 Time permitting, we will then argue that this perspective suggests a syntax for homotopy dependent linear type theory, a conjectured type theory which should have models in all infinity topoi of parameterized stable infinity categories. 
 
-#### Dan Licata: TBA {#licata}
+#### Dan Licata: A Fibrational Framework for Substructural and Modal Dependent Type Theories {#licata}
 
-TBA
+(joint work with Mitchell Riley and Michael Shulman)
+
+Modal type theory extends type theory with additional unary type constructors, representing functors, monads, and comonads of various sorts.  Modal types can be used to speak synthetically about topology and geometry, and also have been used in the internal language semantics of cubical type theories. Over the past few years, we have been working on a general framework for modal type theories. In this framework, specific type theories can be specified by a signature---for example, "type theory with an idempotent monad and an idempotent comonad which are themselves adjoint".  Given a signature, instantiating general inference rules provides a syntax for working with the desired modal types.  While the framework does not automatically produce "optimized" inference rules for a particular modal discipline (where structural rules are as admissible as possible), it does provide a syntactic setting for investigating such issues, including a general equational theory governing the placement of structural rules in types and in terms.  In this talk, I will describe this framework, and show how it can be used to encode a variety of modal dependent type theories.
 
 #### Giulio Lo Monaco: Set-theoretic remarks on a possible definition of elementary &infin;-topos {#lomonaco}
 
