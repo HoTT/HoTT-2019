@@ -6,7 +6,8 @@ title: "Programme"
 
 ### Schedule
 
-Coming soon!
+| | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+| 9:30 | | | | | | |
 
 ### Titles and Abstracts
 
