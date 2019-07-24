@@ -6,7 +6,7 @@ title: "Programme"
 
 ### Schedule
 
-<table>
+<table style="text-align:center">
 <thead>
 <tr><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
 </thead><tbody>
