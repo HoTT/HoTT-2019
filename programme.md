@@ -7,7 +7,22 @@ title: "Programme"
 ### Schedule
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| 9:30 | | | | | | |
+| 9:30 | registration | Pitts | Licata | Szumilo | Sattler | Buchholtz |
+| 10:00 | Riehl |  |  |  |  |  |
+| 10:30 |  | Shulman | Weinberger | Stenzel | Sterling | Finster |
+| 11:00 | Break | Break | Break | Break | Break | Break |
+| 11:30 | Awodey | Christensen | Altenkirch | van den Berg | Subramaniam | Joyal |
+| 12:00 | Coquand | Karnik | Weaver | Gambino | Brunerie |  |
+| 12:30 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
+| 2:00 | Mortberg | Rijke |  | Zwanziger | Uemura | End |
+| 2:30 | Swan | North |  | Myers | Bidlingmaier |  |
+| 3:00 | Francese | Rose |  | Cicala | Lo Monaco |  |
+| 3:30 | Break | Break |  | Break | Break |  |
+| 4:00 | Choudhury | Souzeau |  | Lessard | Moeneclaey |  |
+| 4:30 | Cagne | Lynge |  | White | Bentzen |  |
+| 5:00 | Helfer |  |  |  | Acosta |  |
+| 5:30 | Reception |  |  |  |  |  |
+| 6:00 |  |  |  | Dinner |  |
 
 ### Titles and Abstracts
 
