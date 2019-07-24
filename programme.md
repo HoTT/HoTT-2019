@@ -6,24 +6,25 @@ title: "Programme"
 
 ### Schedule
 
-| | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-|--|--|--|--|--|--|--|
-| 9:30 | registration | [Pitts](#pitts) | [Licata](#licata) | [Szumilo](#szumilo) | [Sattler](#sattler) | [Buchholtz](#buchholtz) |
-| 10:00 | [Riehl](#riehl) |  |  |  |  |  |
-| 10:30 |  | [Shulman](#shulman) | [Weinberger](#weinberger) | [Stenzel](#stenzel) | [Sterling](#sterling) | [Finster](#finster) |
-| 11:00 | Break | Break | Break | Break | Break | Break |
-| 11:30 | [Awodey](#awodey) | [Christensen](#christensen) | [Altenkirch](#altenkirch) | [van den Berg](#vandenberg) | [Subramaniam](#subramaniam) | [Joyal](#joyal) |
-| 12:00 | [Coquand](#coquand) | [Karnick](#karnick) | [Weaver](#weaver) | [Gambino](#gambino) | [Brunerie](#brunerie) |  |
-| 12:30 | Lunch | Lunch | Lunch | Lunch | Lunch | Lunch |
-| 2:00 | [Mörtberg](#mortberg) | [Rijke](#rijke) |  | [Zwanziger](#zwanziger) | [Uemura](#uemura) | End |
-| 2:30 | [Swan](#swan) | [North](#north) |  | [Myers](#myers) | [Bidlingmaier](#bidlingmaier) |  |
-| 3:00 | [Francese](#francese) | [Rose](#rose) |  | [Cicala](#cicala) | [Lo Monaco](#lomonaco) |  |
-| 3:30 | Break | Break |  | Break | Break |  |
-| 4:00 | [Choudhury](#choudhury) | [Sozeau](#sozeau) |  | [Lessard](#lessard) | [Moeneclaey](#moeneclaey) |  |
-| 4:30 | [Cagne](#cagne) | [Lynge](#lynge) |  | [White](#white) | [Bentzen](#bentzen) |  |
-| 5:00 | [Helfer](#helfer) |  |  |  | [Acosta](#acosta) |  |
-| 5:30 | Reception |  |  |  |  |  |
-| 6:00 |  |  |  | Dinner |  |
+<table>
+<tr><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
+<tr><td>9:30</td><td>registration</td><td>[Pitts](#pitts)</td><td>[Licata](#licata)</td><td>[Szumilo](#szumilo)</td><td>[Sattler](#sattler)</td><td>[Buchholtz](#buchholtz) </td></tr>
+<tr><td>10:00</td><td>[Riehl](#riehl)</td><td></td><td></td><td></td><td></td><td> </td></tr>
+<tr><td>10:30</td><td></td><td>[Shulman](#shulman)</td><td>[Weinberger](#weinberger)</td><td>[Stenzel](#stenzel)</td><td>[Sterling](#sterling)</td><td>[Finster](#finster) </td></tr>
+<tr><td>11:00</td><td>Break</td><td>Break</td><td>Break</td><td>Break</td><td>Break</td><td>Break </td></tr>
+<tr><td>11:30</td><td>[Awodey](#awodey)</td><td>[Christensen](#christensen)</td><td>[Altenkirch](#altenkirch)</td><td>[van den Berg](#vandenberg)</td><td>[Subramaniam](#subramaniam)</td><td>[Joyal](#joyal) </td></tr>
+<tr><td>12:00</td><td>[Coquand](#coquand)</td><td>[Karnick](#karnick)</td><td>[Weaver](#weaver)</td><td>[Gambino](#gambino)</td><td>[Brunerie](#brunerie)</td><td> </td></tr>
+<tr><td>12:30</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch</td><td>Lunch </td></tr>
+<tr><td>2:00</td><td>[Mörtberg](#mortberg)</td><td>[Rijke](#rijke)</td><td></td><td>[Zwanziger](#zwanziger)</td><td>[Uemura](#uemura)</td><td>End </td></tr>
+<tr><td>2:30</td><td>[Swan](#swan)</td><td>[North](#north)</td><td></td><td>[Myers](#myers)</td><td>[Bidlingmaier](#bidlingmaier)</td><td> </td></tr>
+<tr><td>3:00</td><td>[Francese](#francese)</td><td>[Rose](#rose)</td><td></td><td>[Cicala](#cicala)</td><td>[Lo Monaco](#lomonaco)</td><td> </td></tr>
+<tr><td>3:30</td><td>Break</td><td>Break</td><td></td><td>Break</td><td>Break</td><td> </td></tr>
+<tr><td>4:00</td><td>[Choudhury](#choudhury)</td><td>[Sozeau](#sozeau)</td><td></td><td>[Lessard](#lessard)</td><td>[Moeneclaey](#moeneclaey)</td><td> </td></tr>
+<tr><td>4:30</td><td>[Cagne](#cagne)</td><td>[Lynge](#lynge)</td><td></td><td>[White](#white)</td><td>[Bentzen](#bentzen)</td><td> </td></tr>
+<tr><td>5:00</td><td>[Helfer](#helfer)</td><td></td><td></td><td></td><td>[Acosta](#acosta)</td><td> </td></tr>
+<tr><td>5:30</td><td>Reception</td><td></td><td></td><td></td><td></td><td> </td></tr>
+<tr><td>6:00</td><td></td><td></td><td></td><td>Dinner</td><td> </td></tr>
+</table>
 
 ### Titles and Abstracts
 
