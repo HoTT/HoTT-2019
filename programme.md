@@ -10,22 +10,22 @@ title: "Programme"
 <thead>
 <tr><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
 </thead><tbody>
-<tr><td>9:30</td><td style="background-color:olive; text-color:white">registration</td><td rowspan="2"><a href="#pitts">Pitts</a></td><td rowspan="2"><a href="#licata">Licata</a></td><td rowspan="2"><a href="#szumilo">Szumilo</a></td><td rowspan="2"><a href="#sattler">Sattler</a></td><td rowspan="2"><a href="#buchholtz">Buchholtz</a> </td></tr>
+<tr><td>9:30</td><td style="background-color:olive; color:white">registration</td><td rowspan="2"><a href="#pitts">Pitts</a></td><td rowspan="2"><a href="#licata">Licata</a></td><td rowspan="2"><a href="#szumilo">Szumilo</a></td><td rowspan="2"><a href="#sattler">Sattler</a></td><td rowspan="2"><a href="#buchholtz">Buchholtz</a> </td></tr>
 <tr><td>10:00</td><td rowspan="2"><a href="#riehl">Riehl</a></td></tr>
 <tr><td>10:30</td><td><a href="#shulman">Shulman</a></td><td><a href="#weinberger">Weinberger</a></td><td><a href="#stenzel">Stenzel</a></td><td><a href="#sterling">Sterling</a></td><td><a href="#finster">Finster</a> </td></tr>
-<tr><td>11:00</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break </td></tr>
+<tr><td>11:00</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break </td></tr>
 <tr><td>11:30</td><td><a href="#awodey">Awodey</a></td><td><a href="#christensen">Christensen</a></td><td><a href="#altenkirch">Altenkirch</a></td><td><a href="#vandenberg">van den Berg</a></td><td><a href="#subramaniam">Subramaniam</a></td><td><a href="#joyal">Joyal</a> </td></tr>
 <tr><td>12:00</td><td><a href="#coquand">Coquand</a></td><td><a href="#karnick">Karnick</a></td><td><a href="#weaver">Weaver</a></td><td><a href="#gambino">Gambino</a></td><td><a href="#brunerie">Brunerie</a></td><td> </td></tr>
-<tr><td>12:30</td><td style="background-color:olive; text-color:white">Lunch</td><td style="background-color:olive; text-color:white">Lunch</td><td style="background-color:olive; text-color:white">Lunch</td><td style="background-color:olive; text-color:white">Lunch</td><td style="background-color:olive; text-color:white">Lunch</td><td style="background-color:olive; text-color:white">Lunch </td></tr>
+<tr><td>12:30</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch </td></tr>
 <tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td></td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a></td><td>End </td></tr>
 <tr><td>2:30</td><td><a href="#swan">Swan</a></td><td><a href="#north">North</a></td><td></td><td><a href="#myers">Myers</a></td><td><a href="#bidlingmaier">Bidlingmaier</a></td><td> </td></tr>
 <tr><td>3:00</td><td><a href="#francese">Francese</a></td><td><a href="#rose">Rose</a></td><td></td><td><a href="#cicala">Cicala</a></td><td><a href="#lomonaco">Lo Monaco</a></td><td> </td></tr>
-<tr><td>3:30</td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td></td><td style="background-color:olive; text-color:white">Break</td><td style="background-color:olive; text-color:white">Break</td><td> </td></tr>
+<tr><td>3:30</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td></td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td> </td></tr>
 <tr><td>4:00</td><td><a href="#choudhury">Choudhury</a></td><td><a href="#sozeau">Sozeau</a></td><td></td><td><a href="#lessard">Lessard</a></td><td><a href="#moeneclaey">Moeneclaey</a></td><td> </td></tr>
 <tr><td>4:30</td><td><a href="#cagne">Cagne</a></td><td><a href="#lynge">Lynge</a></td><td></td><td><a href="#white">White</a></td><td><a href="#bentzen">Bentzen</a></td><td> </td></tr>
 <tr><td>5:00</td><td><a href="#helfer">Helfer</a></td><td></td><td></td><td></td><td><a href="#acosta">Acosta</a></td><td> </td></tr>
-<tr><td>5:30</td><td style="background-color:olive; text-color:white">Reception</td><td></td><td></td><td></td><td></td><td> </td></tr>
-<tr><td>6:00</td><td></td><td></td><td></td><td style="background-color:olive; text-color:white">Dinner</td><td> </td></tr>
+<tr><td>5:30</td><td style="background-color:olive; color:white">Reception</td><td></td><td></td><td></td><td></td><td> </td></tr>
+<tr><td>6:00</td><td></td><td></td><td></td><td style="background-color:olive; color:white">Dinner</td><td> </td></tr>
 </tbody></table>
 
 ### Titles and Abstracts
