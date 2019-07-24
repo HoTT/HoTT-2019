@@ -8,7 +8,7 @@ title: "Programme"
 
 <table style="text-align:center">
 <thead>
-<tr style="text-align:center"><th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th><th>Saturday</th></tr>
+<tr><th></th><th style="text-align:center">Monday</th><th style="text-align:center">Tuesday</th><th style="text-align:center">Wednesday</th><th style="text-align:center">Thursday</th><th style="text-align:center">Friday</th><th style="text-align:center">Saturday</th></tr>
 </thead><tbody>
 <tr><td>9:30</td><td style="background-color:olive; color:white">Registration</td><td rowspan="2"><a href="#pitts">Pitts</a></td><td rowspan="2"><a href="#licata">Licata</a></td><td rowspan="2"><a href="#szumilo">Szumilo</a></td><td rowspan="2"><a href="#sattler">Sattler</a></td><td rowspan="2"><a href="#buchholtz">Buchholtz</a> </td></tr>
 <tr><td>10:00</td><td rowspan="2"><a href="#riehl">Riehl</a></td></tr>
