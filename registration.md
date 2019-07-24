@@ -10,6 +10,8 @@ To register for the summer school and/or conference, please click
 Registration fees are: $60 for the summer school, $90 for the conference, and
 $150 for both together.
 
+After August 1, registration fees will increase to $80 and $120 respectively.
+
 ##### Financial support
 
 We are no longer accepting applications for funding.
