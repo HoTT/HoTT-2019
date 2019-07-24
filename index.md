@@ -69,6 +69,13 @@ We also acknowledge generous support from [Ilyas
 Khan](https://hott.github.io/HoTT-2019/ilyas-khan/).
 
 
+#### Poster
+
+Click the image for a full-size jpg file of the conference poster for printing.
+
+[![Conference poster](/images/HoTT-2019-poster.jpg){: width="400"}](https://hott.github.io/HoTT-2019/images/HoTT-2019-poster.jpg)
+
+
 <br/>
 
 
