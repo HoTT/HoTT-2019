@@ -24,8 +24,8 @@ title: "Programme"
 <tr><td>4:00</td><td><a href="#choudhury">Choudhury</a></td><td><a href="#sozeau">Sozeau</a></td><td style="background-color:olive; color:white"></td><td><a href="#lessard">Lessard</a></td><td><a href="#moeneclaey">Moeneclaey</a></td><td> </td></tr>
 <tr><td>4:30</td><td><a href="#cagne">Cagne</a></td><td><a href="#lynge">Lynge</a></td><td style="background-color:olive; color:white"></td><td><a href="#white">White</a></td><td><a href="#bentzen">Bentzen</a></td><td> </td></tr>
 <tr><td>5:00</td><td><a href="#helfer">Helfer</a></td><td></td><td></td><td></td><td><a href="#acosta">Acosta</a></td><td> </td></tr>
-<tr><td>5:30</td><td style="background-color:olive; color:white" rowspan="2">Reception</td><td></td><td></td><td></td><td></td><td> </td></tr>
-<tr><td>6:00</td><td></td><td></td><td style="background-color:olive; color:white">Dinner</td><td> </td></tr>
+<tr><td>5:30</td><td style="background-color:olive; color:white" rowspan="2"><a href="#reception">Reception</a></td><td></td><td></td><td></td><td></td><td> </td></tr>
+<tr><td>6:00</td><td></td><td></td><td style="background-color:olive; color:white"><a href="#dinner">Dinner</a></td><td> </td></tr>
 </tbody></table>
 
 ### Titles and Abstracts
@@ -295,3 +295,18 @@ In this talk, I will present a proof that the arrow category of a monoidal model
 #### Colin Zwanziger: Natural Model Semantics of Comonadic Modal Type Theory {#zwanziger}
 
 While comonadic modal type theory has been extended to the dependently-typed setting (Nanevski et al., 2008; Shulman, 2018), the semantics of such comonadic modal dependent type theories remains underexplored. This gap in the literature takes on particular urgency in light of the active use of such type theories in the homotopy type theory community (Shulman, op. cit.; Licata et al., 2018). Here, we give a semantics for Shulman (op. cit.)'s comonadic dependent type operator in the framework of natural models and their morphisms. This is apparently the first formal suggestion for a model of a fully dependent comonadic type theory. Natural models were developed (Awodey, 2018) as an equivalent, category-theoretic formulation of categories with families (CwFs, Dybjer, 1995), the popular categorical semantics for dependent type theory. To interpret the comonadic operator, we introduce what we call a (weak) Cartesian comonad on a natural model. This makes use of the promising idea of a weak morphism of natural models (Newstead, 2018) or CwFs (Clouston et al., 2018). While  "Cartesian comonad of natural models" is an appealingly simple description, the actual interpretation with respect to such a comonad involves some exercise. The two-zone contexts of the type theory are interpreted not as objects of the underlying category of contexts, but as morphisms with codomain a coalgebra. The requirement that the comonad be a morphism of natural models is seen to impose the correct relationship between the comonadic operator and the usual induced relative comonad. We also mention a formulation in terms of CwFs.
+
+### Reception and Dinner
+
+#### Reception {#reception}
+
+There will be a reception Monday evening from 5:30--6:30 at the Schenley Park Visitor's Center.  Here is a map:
+
+[![Map to reception](/images/HoTTreception.png){: width="700"}](https://hott.github.io/HoTT-2019/images/HoTTreception.png)
+
+#### Dinner {#dinner}
+
+There will be a conference dinner Thursday evening at 6:00 at the Hotel Indigo.  Here is a map:
+
+[![Map to reception](/images/HoTTdinner.png){: width="700"}](https://hott.github.io/HoTT-2019/images/HoTTdinner.png)
+
