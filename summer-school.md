@@ -16,10 +16,15 @@ title: "HoTT Summer school"
 * Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
 
 
-#### Organizers
+### Organizers
 
 * [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
 * [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
 * [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
 * [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
 
+### Program
+
+#### Schedule
+
+![Summer school program](/images/ss-schedule.png){:width="650"}
