@@ -24,8 +24,8 @@ title: "Programme"
 <tr><td>4:00</td><td><a href="#choudhury">Choudhury</a></td><td><a href="#sozeau">Sozeau</a></td><td><a href="#lessard">Lessard</a></td><td><a href="#moeneclaey">Moeneclaey</a></td><td> </td></tr>
 <tr><td>4:30</td><td><a href="#cagne">Cagne</a></td><td><a href="#lynge">Lynge</a></td><td><a href="#white">White</a></td><td><a href="#bentzen">Bentzen</a></td><td> </td></tr>
 <tr><td>5:00</td><td><a href="#helfer">Helfer</a></td><td></td><td></td><td></td><td><a href="#acosta">Acosta</a></td><td> </td></tr>
-<tr><td>5:30</td><td style="background-color:olive; color:white" rowspan="2"><a href="#reception">Reception</a></td><td></td><td></td><td></td><td></td><td> </td></tr>
-<tr><td>6:00</td><td></td><td></td><td style="background-color:olive; color:white"><a href="#dinner">Dinner</a></td><td> </td></tr>
+<tr><td>5:30</td><td style="background-color:olive" rowspan="2"><a href="#reception" style="color:white">Reception</a></td><td></td><td></td><td></td><td></td><td> </td></tr>
+<tr><td>6:00</td><td></td><td></td><td style="background-color:olive"><a href="#dinner" style="color:white">Dinner</a></td><td> </td></tr>
 </tbody></table>
 
 * <a name="vvmemorial"><sup>*</sup></a> Vladimir Voevodsky Memorial Lecture
