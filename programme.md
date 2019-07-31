@@ -28,8 +28,6 @@ title: "Programme"
 <tr><td>6:00</td><td></td><td></td><td style="background-color:olive; color:white"><a href="#dinner">Dinner</a></td><td> </td></tr>
 </tbody></table>
 
-<p><a name="#vvmemorial"><sup>*</sup><a> Vladimir Voevodsky Memorial Lecture<br/>
-<a name="#beststudentpaper"><sup>†</sup></a> Recipient of Best Student Paper Award</p>
 
 ### Titles and Abstracts
 
