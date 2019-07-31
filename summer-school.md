@@ -28,8 +28,8 @@ A51 in CMU's **Baker Hall** building (see [conference
 map](https://drive.google.com/open?id=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&usp=sharing)).
 
 We will start off Wednesday (August 7) morning with coffee at 8:45 AM in front
-of the lecture hall, the first course fill begin at 9:15. The following days
-courses will start at 9.
+of the lecture hall, the first course will begin at 9:15 AM. The following days
+courses will start at 9 AM.
 
 ### Schedule
 
