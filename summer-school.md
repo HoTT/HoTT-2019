@@ -6,19 +6,12 @@ title: "HoTT Summer School - August 7 to 10"
 
 ### Topics and Instructors
 
+* Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
+* Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
 * Cubical methods: [Anders Mörtberg](http://www.cs.cmu.edu/~amoertbe/) (Carnegie Mellon University, USA and Stockholm University, Sweden)
+* Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr) (Carnegie Mellon University, USA)
 * Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io) (Stockholm University, Sweden)
 * Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/) (Cornell University, USA)
-* Higher topos theory: [Mathieu Anel](http://mathieu.anel.free.fr) (Carnegie Mellon University, USA)
-* Semantics of type theory: [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
-* Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
-
-### Organizers
-
-* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
-* [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
-* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
-* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
 
 ### Venue
 
@@ -38,8 +31,8 @@ courses will start at 9.
 
 Familiarity with basic ideas and concepts of homotopy type theory will be
 helpful for all courses. We recommend that beginners have a look at the first
-sections of Egbert Rijke's [course notes](/images/hott-intro-rijke)
-and/or the [Hoot
+sections of Egbert Rijke's [course notes](/images/hott-intro-rijke.pdf)
+and/or the [HoTT
 book](https://hott.github.io/book/nightly/hott-online-1212-g0d25f68.pdf).
 
 For the formalization classes you will need to have the appropriate versions of
@@ -47,6 +40,12 @@ the Agda and Coq proof assistants installed (or use an online version in case of
 Coq), see the course descriptions below for more details.
 
 ### Abstracts
+
+#### Synthetic homotopy theory -- Egbert Rijke
+
+[Course notes](/images/hott-intro-rijke.pdf).
+
+#### Semantics of type theory -- Jonas Frey
 
 #### Cubical methods -- Anders Mörtberg
 
@@ -59,6 +58,8 @@ a syntactic schema for HITs, canonicity results, and a variety of independence
 results. This course will give an introduction to these methods, both from a
 syntactic perspective in the form of cubical type theory and from a semantic
 perspective in the form of cubical set models.
+
+#### Higher topos theory -- Mathieu Anel
 
 #### Formalization in Agda -- Guillaume Brunerie
 
@@ -82,10 +83,9 @@ examples to illustrate the basic techniques and use of the library. The students
 will then have the option to pursue more challenging exercises on their own
 and/or contribute to the formalization of the HoTT book.
 
-#### Higher topos theory -- Mathieu Anel
+### Organizers
 
-#### Semantics of type theory -- Jonas Frey
-
-#### Synthetic homotopy theory -- Egbert Rijke
-
-[Course notes](/images/hott-intro-rijke).
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
+* [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
