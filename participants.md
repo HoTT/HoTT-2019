@@ -56,7 +56,6 @@ Joseph	Helfer \\
 Oscar	Hernandez \\
 Kuen-Bang	Hou (Favonia) \\
 Edison	Hua \\
-Mary Grace	Joseph \\
 André	Joyal \\
 Lyra	Jung \\
 Nachiket	Karnick \\
@@ -95,7 +94,6 @@ Emily	Riehl \\
 Egbert	Rijke \\
 Mitchell	Riley \\
 Antonio	Ruiz \\
-Jaime	Rzepecki \\
 Christian	Sattler \\
 Nicolas	Schmidt \\
 Filippo	Sestini \\
