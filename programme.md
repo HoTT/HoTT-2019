@@ -196,6 +196,8 @@ We take from [1] the definition of equivalences as relations satisfying an extra
 
 We present a new constructive model of univalent type theory based on cubical sets. The difference from earlier work on similar models is that it depends neither on "diagonal cofibrations" nor on connections or reversals. The key idea is to weaken the notion of fibration from the cartesian cubical model so that it is not necessary to assume that the diagonal on the interval is a cofibration. Our notion of fibration coincides with that of the existing cartesian and De Morgan cubical set models in the presence of the additional structures of the respective models. This notion of fibration also gives rise to a model structure, generalizing earlier work of Sattler to cubical sets without connections.
 
+This is joint work with Evan Cavallo and Andrew Swan.
+
 #### David Jaz Myers: Looking at Functions through the Modal Prism {#myers}
 
 A modality is a way to change what it means to identify two terms of a type. The n-truncation modality asks for an identification to only contain n homotopical dimensions of information, while the shape modality of Shulman's Cohesive HoTT allows us to identify points by giving a continuous path between them. In this talk, we will see functions through the modal prism. There are many notions of function associated to a modality in use: modally truncated, modally connected, modally etale, modal covering. To these we will add the notions of a modal fibration and a modally constant family, and organize them all into a single diagram: the modal prism. 
