@@ -13,6 +13,14 @@ title: "HoTT Summer School - August 7 to 10"
 * Formalization in Agda: [Guillaume Brunerie](https://guillaumebrunerie.github.io) (Stockholm University, Sweden)
 * Formalization in Coq: [Kristina Sojakova](http://www.cs.cornell.edu/~ks858/) (Cornell University, USA)
 
+### Organizers
+
+* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
+* [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
+* [Mathieu Anel](http://mathieu.anel.free.fr/) (Carnegie Mellon University, USA)
+* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
+* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
+
 ### Venue
 
 The summer school will take place in the **Giant Eagle Auditorium**, room number
@@ -82,10 +90,3 @@ formalize arguments from homotopy type theory. We will go over a few simpler
 examples to illustrate the basic techniques and use of the library. The students
 will then have the option to pursue more challenging exercises on their own
 and/or contribute to the formalization of the HoTT book.
-
-### Organizers
-
-* [Steve Awodey](https://www.andrew.cmu.edu/user/awodey/) (Carnegie Mellon University, USA)
-* [Jonas Frey](https://sites.google.com/site/jonasfreysite/) (Carnegie Mellon University, USA)
-* [Nicola Gambino](http://www1.maths.leeds.ac.uk/~pmtng/) (University of Leeds, UK)
-* [Michael Shulman](http://home.sandiego.edu/~shulman/) (University of San Diego, USA)
