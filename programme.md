@@ -14,10 +14,10 @@ title: "Programme"
 <tr><td>10:00</td><td rowspan="2"><a href="#riehl">Riehl</a></td></tr>
 <tr><td>10:30</td><td><a href="#shulman">Shulman</a></td><td><a href="#weinberger">Weinberger</a></td><td><a href="#stenzel">Stenzel</a></td><td><a href="#sterling">Sterling</a></td><td><a href="#finster">Finster</a> </td></tr>
 <tr><td>11:00</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break </td></tr>
-<tr><td>11:30</td><td><a href="#awodey">Awodey</a></td><td><a href="#christensen">Christensen</a></td><td><a href="#altenkirch">Altenkirch</a></td><td><a href="#vandenberg">van den Berg</a></td><td><a href="#subramaniam">Subramaniam</a></td><td rowspan="2"><a href="#joyal">Joyal</a> </td></tr>
+<tr><td>11:30</td><td><a href="#awodey">Awodey</a></td><td><a href="#christensen">Christensen</a></td><td><a href="#altenkirch">Altenkirch</a></td><td><a href="#vandenberg">van den Berg</a></td><td><a href="#subramaniam">Subramaniam</a></td><td rowspan="2"><a href="#joyal">Joyal</a> <a href="#vvmemorial"><sup>*</sup></a></td></tr>
 <tr><td>12:00</td><td><a href="#coquand">Coquand</a></td><td><a href="#karnick">Karnick</a></td><td><a href="#weaver">Weaver</a></td><td><a href="#gambino">Gambino</a></td><td><a href="#brunerie">Brunerie</a></td></tr>
 <tr><td>12:30</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Group Photo<br/>and Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch </td></tr>
-<tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td style="background-color:olive; color:white" rowspan="6"></td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a></td><td style="background-color:olive; color:white">End</td></tr>
+<tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td style="background-color:olive; color:white" rowspan="6"></td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a> <a href="#beststudentpaper"><sup>†</sup></a></td><td style="background-color:olive; color:white">End</td></tr>
 <tr><td>2:30</td><td><a href="#swan">Swan</a></td><td><a href="#north">North</a></td><td><a href="#myers">Myers</a></td><td><a href="#bidlingmaier">Bidlingmaier</a></td><td> </td></tr>
 <tr><td>3:00</td><td><a href="#francese">Francese</a></td><td><a href="#rose">Rose</a></td><td><a href="#cicala">Cicala</a></td><td><a href="#lomonaco">Lo Monaco</a></td><td> </td></tr>
 <tr><td>3:30</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td> </td></tr>
@@ -27,6 +27,9 @@ title: "Programme"
 <tr><td>5:30</td><td style="background-color:olive; color:white" rowspan="2"><a href="#reception">Reception</a></td><td></td><td></td><td></td><td></td><td> </td></tr>
 <tr><td>6:00</td><td></td><td></td><td style="background-color:olive; color:white"><a href="#dinner">Dinner</a></td><td> </td></tr>
 </tbody></table>
+
+<p><a name="#vvmemorial"><sup>*</sup><a> Vladimir Voevodsky Memorial Lecture<br/>
+<a name="#beststudentpaper"><sup>†</sup></a> Recipient of Best Student Paper Award</p>
 
 ### Titles and Abstracts
 
