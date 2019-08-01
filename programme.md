@@ -6,6 +6,9 @@ title: "Programme"
 
 ### Schedule
 
+All talks will be in Baker Hall room A51: see the [conference
+map](https://drive.google.com/open?id=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&usp=sharing).
+
 <table style="text-align:center">
 <thead>
 <tr><th></th><th style="text-align:center">Monday</th><th style="text-align:center">Tuesday</th><th style="text-align:center">Wednesday</th><th style="text-align:center">Thursday</th><th style="text-align:center">Friday</th><th style="text-align:center">Saturday</th></tr>
