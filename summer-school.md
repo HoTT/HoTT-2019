@@ -112,3 +112,18 @@ formalize arguments from homotopy type theory. We will go over a few simpler
 examples to illustrate the basic techniques and use of the library. The students
 will then have the option to pursue more challenging exercises on their own
 and/or contribute to the formalization of the HoTT book.
+
+We encourage everyone intending to do serious formalization to consider getting
+a **Linux** distribution (e.g., Ubuntu). The installation instructions for the
+HoTT version of Coq on Linux can be found
+[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), see also the
+excerpt [here](https://hott.github.io/HoTT-2019/coq-installation/).
+
+On **Windows**: there is now a beta version of Coq 8.10 that includes the HoTT
+library and the HoTT version of CoqIDE, courtesy of Michael Soegtrop.
+[Here](https://gitlab.com/coq/coq/-/jobs/261177798/artifacts/browse/artifacts/)
+is the 64-bit version, and [here](https://gitlab.com/coq/coq/-/jobs/261177800/artifacts/browse/artifacts/) is the 32 bit version.
+
+For people who just want to get through the course, there is an option to use
+the [HoTT version of Coq from within a browser](https://x80.org/rhino-hott/),
+that should work on the latest version of Chrome and/or Firefox.
