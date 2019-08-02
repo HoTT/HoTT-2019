@@ -15,7 +15,7 @@ title: "Coq Installation"
 2. Get the HoTT library (skip this step if you already have it):
 
 ```
- git clone https://github.com/HoTT/HoTT.git 
+ git clone https://github.com/HoTT/HoTT.git
  cd HoTT
  ```
 
@@ -34,7 +34,6 @@ It may take a while to compile the custom Coq.
    You can also use `./hoqide` which is the version of `coqide` running the
    `hoqtop` toplevel if you have compiled it successfully. If you want the
    commands `hoqtop`, `hoqc`, `hoqide` available system-wide, run:
-
 
 ```
  make install
