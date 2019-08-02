@@ -86,6 +86,8 @@ The results are formalised in cubical Agda.
 
 This is groundwork for applications to, on the one hand, the denotational semantics of a reversible programming language with finite types [1], and,  on the other hand, the formalization of the free symmetric-monoidal  completion of a groupoid (1-type) for developing the calculus of  generalised species of structures [6,3] between groupoids and its  application to higher-dimensional algebra [5].
 
+This is joint work with Marcelo Fiore.
+
  References
 
 [1] J Carette, C-H Chen, V Choudhury, A Sabry.  From reversible programs to     univalent universes and back.  In MFPS XIII, ENTCS 336, pages 5-25, 2018.
