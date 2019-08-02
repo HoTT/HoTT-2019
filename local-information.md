@@ -13,14 +13,14 @@ Auditorium**, room number A51 in CMU's **Baker Hall** building.
 
 We have created a **[conference
 map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13)**
-containing containing locations in Pittsburgh, including
+on Google Maps containing locations in Pittsburgh, including
 
 * The conference venue
 * Accommodations
-* Locations of the summer school barbecue and the conference reception and
-  dinner
+* Locations of the summer school barbecue and the conference reception and dinner
 * Places to eat on and around campus
 * Bars and restaurants in the area
+* Destinations of possible Wednesday excersions
 
 There are also some [official maps](https://www.cmu.edu/visit/maps-parking-transportation.html) provided by the university, including a 
 3D map of the campus.

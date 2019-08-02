@@ -304,17 +304,61 @@ In this talk, I will present a proof that the arrow category of a monoidal model
 
 While comonadic modal type theory has been extended to the dependently-typed setting (Nanevski et al., 2008; Shulman, 2018), the semantics of such comonadic modal dependent type theories remains underexplored. This gap in the literature takes on particular urgency in light of the active use of such type theories in the homotopy type theory community (Shulman, op. cit.; Licata et al., 2018). Here, we give a semantics for Shulman (op. cit.)'s comonadic dependent type operator in the framework of natural models and their morphisms. This is apparently the first formal suggestion for a model of a fully dependent comonadic type theory. Natural models were developed (Awodey, 2018) as an equivalent, category-theoretic formulation of categories with families (CwFs, Dybjer, 1995), the popular categorical semantics for dependent type theory. To interpret the comonadic operator, we introduce what we call a (weak) Cartesian comonad on a natural model. This makes use of the promising idea of a weak morphism of natural models (Newstead, 2018) or CwFs (Clouston et al., 2018). While  "Cartesian comonad of natural models" is an appealingly simple description, the actual interpretation with respect to such a comonad involves some exercise. The two-zone contexts of the type theory are interpreted not as objects of the underlying category of contexts, but as morphisms with codomain a coalgebra. The requirement that the comonad be a morphism of natural models is seen to impose the correct relationship between the comonadic operator and the usual induced relative comonad. We also mention a formulation in terms of CwFs.
 
-### Reception and Dinner
+### Reception and Dinner 
 
 #### Reception {#reception}
 
-There will be a reception Monday evening from 5:30--6:30 at the Schenley Park Visitor's Center.  Here is a map:
+There will be a reception Monday evening from 5:30--6:30 at the Schenley Park Visitor's Center.  The location is on the conference [google
+map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13) and shown below:
 
 [![Map to reception](/images/HoTTreception.png){: width="700"}](https://hott.github.io/HoTT-2019/images/HoTTreception.png)
 
 #### Dinner {#dinner}
 
-There will be a conference dinner Thursday evening at 6:00 at the Hotel Indigo.  Here is a map:
+There will be a conference dinner Thursday evening at 6:00 at the Hotel Indigo.  The location is on the conference [google
+map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13) and shown below:
 
 [![Map to reception](/images/HoTTdinner.png){: width="700"}](https://hott.github.io/HoTT-2019/images/HoTTdinner.png)
 
+### Excursions {#excursion}
+
+On Wednesday afternoon, local organizers will lead excursions to Mount Washington and a cruise of Pittsburgh's "three rivers". There are also several suggestions for self-guided excursions.  All the excursion destinations are marked on the conference [google
+map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13).
+
+#### Guided Excursions
+
+The guided excursions will depart from the coffee area outside Giant Eagle Auditorium at 2:15 pm on Wednesday the 14th. Local organizers will conduct the group to (and from) Station Square near downtown, via the frequent public buses. At Station Sq., the groups will diverge.
+
+##### Mount Washington
+
+Mount Washington is a pleasant hilltop neighborhood that offers excellent views of Pittsburgh's historic city center. The group will ascend and descend the hill via the inclined railways, completing a loop including 1.7 miles of walking. The cost of the inclined railways is $5.
+
+##### Gateway Clipper Cruise
+
+Cruise the rivers of Pittsburgh, with excellent views of Pittsburgh's historic city center. The cruise is conducted by [Gateway Clipper](https://www.gatewayclipper.com/) and includes some narration about the city. The cost of a ticket is $22, but can be reduced to $11 using a coupon in the coupon booklet. The cruise departs Station Square at 3:30 pm and lasts an hour.
+
+#### Self-guided Excursions
+
+##### Phipps Conservatory and Botanical Gardens
+
+An extensive botanical garden walking distance from the CMU campus (<www.phipps.conservatory.org>), in Schenley Park. A coupon in the coupon booklet gives 10% off.
+
+##### Carnegie Museums of Art and Natural History
+
+Pittsburgh's primary museum complex (<https://carnegiemuseums.org/>), walking distance from CMU. The natural history museum is particularly noted for its dinosaur and gemstone collections.
+
+##### Schenley and Frick Parks Hiking Trails
+
+[Schenley](https://www.pittsburghparks.org/schenley-park) and [Frick](https://www.pittsburghparks.org/frick-park) Parks are large and rustic parks within Pittsburgh, offering hiking trails. Schenley Park is right out the door of Baker Hall, whereas the rustic trails at Frick Park are more extensive.
+
+##### Carrie Blast Furnaces National Historic Landmark
+
+Tours of an old industrial steel furnace conducted by former steel workers (<https://riversofsteel.com/attractions/carrie-furnaces/>). Note that the afternoon tour on Wednesday departs at 1 pm, however.
+
+##### The Andy Warhol Museum
+
+Extensive museum devoted to the famous Pittsburgh artist (<https://www.warhol.org/>).
+
+##### The Frick Pittsburgh
+
+Gilded Age mansion of steel magnate Henry Frick (<https://www.thefrickpittsburgh.org/>). Adjacent museum is noted for its car and carriage collection.
