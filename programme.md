@@ -20,7 +20,7 @@ map](https://drive.google.com/open?id=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&usp=shar
 <tr><td>11:30</td><td><a href="#awodey">Awodey</a></td><td><a href="#christensen">Christensen</a></td><td><a href="#altenkirch">Altenkirch</a></td><td><a href="#vandenberg">van den Berg</a></td><td><a href="#subramaniam">Subramaniam</a></td><td rowspan="2"><a href="#joyal">Joyal</a> <a href="#vvmemorial"><sup>*</sup></a></td></tr>
 <tr><td>12:00</td><td><a href="#coquand">Coquand</a></td><td><a href="#karnick">Karnick</a></td><td><a href="#weaver">Weaver</a></td><td><a href="#gambino">Gambino</a></td><td><a href="#brunerie">Brunerie</a></td></tr>
 <tr><td>12:30</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Group Photo<br/>and Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch</td><td style="background-color:olive; color:white">Lunch </td></tr>
-<tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td style="background-color:olive; color:white" rowspan="6">Excursion</td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a> <a href="#beststudentpaper"><sup>†</sup></a></td><td style="background-color:olive; color:white">End</td></tr>
+<tr><td>2:00</td><td><a href="#mortberg">Mörtberg</a></td><td><a href="#rijke">Rijke</a></td><td style="background-color:olive" rowspan="6"><a href="#excursions" style="color:white">Excursions</a></td><td><a href="#zwanziger">Zwanziger</a></td><td><a href="#uemura">Uemura</a> <a href="#beststudentpaper"><sup>†</sup></a></td><td style="background-color:olive; color:white">End</td></tr>
 <tr><td>2:30</td><td><a href="#swan">Swan</a></td><td><a href="#north">North</a></td><td><a href="#myers">Myers</a></td><td><a href="#bidlingmaier">Bidlingmaier</a></td><td> </td></tr>
 <tr><td>3:00</td><td><a href="#francese">Francese</a></td><td><a href="#rose">Rose</a></td><td><a href="#cicala">Cicala</a></td><td><a href="#lomonaco">Lo Monaco</a></td><td> </td></tr>
 <tr><td>3:30</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td style="background-color:olive; color:white">Break</td><td> </td></tr>
@@ -320,7 +320,7 @@ map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&
 
 [![Map to reception](/images/HoTTdinner.png){: width="700"}](https://hott.github.io/HoTT-2019/images/HoTTdinner.png)
 
-### Excursions {#excursion}
+### Excursions {#excursions}
 
 On Wednesday afternoon, local organizers will lead excursions to Mount Washington and a cruise of Pittsburgh's "three rivers". There are also several suggestions for self-guided excursions.  All the excursion destinations are marked on the conference [google
 map](https://www.google.com/maps/d/viewer?mid=1Eq3-6x6P75jL6tUcY7eDLOuoL2-7NbHc&ll=40.448091221474606%2C-79.94874355000002&z=13).
@@ -341,7 +341,7 @@ Cruise the rivers of Pittsburgh, with excellent views of Pittsburgh's historic c
 
 ##### Phipps Conservatory and Botanical Gardens
 
-An extensive botanical garden walking distance from the CMU campus (<www.phipps.conservatory.org>), in Schenley Park. A coupon in the coupon booklet gives 10% off.
+An extensive botanical garden walking distance from the CMU campus (<http://www.phipps.conservatory.org>), in Schenley Park. A coupon in the coupon booklet gives 10% off.
 
 ##### Carnegie Museums of Art and Natural History
 
