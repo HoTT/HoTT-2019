@@ -55,6 +55,15 @@ Coq), see the course descriptions below for more details.
 
 #### Semantics of type theory -- Jonas Frey
 
+This course will give an overview of the categorical and homotopical semantics
+of dependent type theory. I will start out by presenting interpretations in
+locally cartesian closed categories and display map (fibration) categories first
+on a non-strict, informal level, and then introduce the notion of category
+with families after discussing the coherence problems of the non-strict
+approach. After sketching the soundness proof of the interpretation of type
+theory in categories with families, I will speak about strictification of
+non-strict models.
+
 #### Cubical methods -- Anders Mörtberg
 
 Cubical methods have played an important role in the development of HoTT during
@@ -68,6 +77,19 @@ syntactic perspective in the form of cubical type theory and from a semantic
 perspective in the form of cubical set models.
 
 #### Higher topos theory -- Mathieu Anel
+
+
+I will give a presentation of the notion of ∞-topos by means of the higher
+algebraic theory of logoi.
+
+* Course 1: Homotopy theory and localization of categories (homotopy, fractions,
+model structure, Dwyer-Kan localization)
+* Course 2: The theory of logoi (descent, universe, definitions, monadicity, free
+logos, ∞-topos, comparison with 1-topos)
+* Course 3: Features of logoi (quotient, classifying logoi, truncations,
+∞-connected objects, modalities)
+
+Reference: [Anel, M and Joyal, A. *Topo-logie*](http://mathieu.anel.free.fr/mat/doc/Anel-Joyal-Topo-logie.pdf)
 
 #### Formalization in Agda -- Guillaume Brunerie
 

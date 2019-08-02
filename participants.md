@@ -5,11 +5,12 @@ title: "Participants"
 ---
 
 Ambroise	Lafont \\
+Amit	Sharma \\
 Anders	Mörtberg \\
+André	Joyal \\
 Andreas	Lynge \\
 Andrew	Pitts \\
 Andrew	Swan \\
-André	Joyal \\
 Anja	Petkovic \\
 Anthony	Agwu \\
 Antoine	Allioux \\
@@ -22,6 +23,7 @@ Bas	Spitters \\
 Benno	van den Berg \\
 Brandon	Bohrer \\
 Brandon	Doherty \\
+Bruno	Bentzen \\
 Caleb	Camrud \\
 Carlo	Angiuli \\
 Chaitanya	Leena Subramaniam \\
@@ -32,6 +34,8 @@ Colin	Zwanziger \\
 Dan	Christensen \\
 Dan	Licata \\
 Daniel	Cicala \\
+David	Myers \\
+David	White \\
 Davide	Castelnovo \\
 Derek	Sorensen \\
 Ed	Morehouse \\
@@ -39,7 +43,9 @@ Edison	Hua \\
 Egbert	Rijke \\
 Emily	Riehl \\
 Eric	Brunner-Williams \\
+Eric	Finster \\
 Ernesto	Acosta \\
+Evan	Cavallo \\
 Farzaneh	Derakhshan \\
 Fernando	Larrain \\
 Filippo	Sestini \\
@@ -60,6 +66,7 @@ Jinghui	Tao \\
 Jinxuan	Zhu \\
 Jonas	Frey \\
 Jonathan	Prieto-Cubides \\
+Jonathan	Sterling \\
 Jonathan	Weinberger \\
 Jonathon	Funk \\
 Joseph	Helfer \\
@@ -101,9 +108,11 @@ Rafay	Ashary \\
 Raffael	Stenzel \\
 Rany	Tith \\
 Raymond	Puzio \\
+Reid	Barton \\
 Rick	Smith \\
 Robert	Cardona \\
 Robert	Rennie \\
+Robert	Rose \\
 Robert	Widmann \\
 Roland	Baumann \\
 Sam	Estep \\
@@ -128,7 +137,8 @@ Vinicius	Costa \\
 Wang Chi	Leung \\
 William	Balderrama \\
 Yinsen	Zhang \\
+Yuhao	Huang \\
 Zachary	Gehlke \\
 Zeesahn	Lakhani \\
 Zhenyu	Sun \\
-Zhibo	Chen \\
+Zhibo	Chen 
