@@ -39,8 +39,8 @@ courses will start at 9 AM.
 
 Familiarity with basic ideas and concepts of homotopy type theory will be
 helpful for all courses. We recommend that beginners have a look at the first
-sections of Egbert Rijke's [course notes](/images/hott-intro-rijke.pdf)
-and/or the [HoTT
+sections of Egbert Rijke's [course notes](/images/hott-intro-rijke.pdf) and/or
+the [HoTT
 book](https://hott.github.io/book/nightly/hott-online-1212-g0d25f68.pdf).
 
 For the formalization classes you will need to have the appropriate versions of
@@ -76,6 +76,10 @@ with families after discussing the coherence problems of the non-strict
 approach. After sketching the soundness proof of the interpretation of type
 theory in categories with families, I will speak about strictification of
 non-strict models.
+
+Prerequisites: Knowledge of basic category theory -- in particular the concepts
+of adjoint functor and cartesian closed category -- will be helpful. See for
+Awodey's textbook *Category theory* (2006).
 
 #### Cubical methods -- Anders Mörtberg
 
