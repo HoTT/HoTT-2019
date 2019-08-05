@@ -20,10 +20,11 @@ on Google Maps containing locations in Pittsburgh, including
 * Locations of the summer school barbecue and the conference reception and dinner
 * Places to eat on and around campus
 * Bars and restaurants in the area
-* Destinations of possible Wednesday excersions
+* Destinations of possible Wednesday excursions
 
-There are also some [official maps](https://www.cmu.edu/visit/maps-parking-transportation.html) provided by the university, including a 
-3D map of the campus.
+There are also some [official
+maps](https://www.cmu.edu/visit/maps-parking-transportation.html) provided by
+the university, including a 3D map of the campus.
 <!-- 
 CMU maps of the 
 [Here](https://www.cmu.edu/visit/index.html) is some official information on how
@@ -36,7 +37,7 @@ a 3D campus map. -->
 The cheapest way to get to Pittsburgh from the airport is the [28x bus
 line](https://www.portauthority.org/pdfs/28X.pdf), which stops close to the CMU
 Campus (Stop MOREWOOD AVE AT FORBES AVE FS) and the Shadyside Inn (Stop
-FIFTH AVE OPP AIKEN AVE). 
+FIFTH AVE OPP AIKEN AVE).
 
 There is also the possibility to book a
 [SuperShuttle](https://www.supershuttle.com/locations/pittsburgh-pit/) in
