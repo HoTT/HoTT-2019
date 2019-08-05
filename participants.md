@@ -16,10 +16,12 @@ Anthony	Agwu \\
 Antoine	Allioux \\
 Antoine	Voizard \\
 Antonio	Ruiz \\
+Arthur	Azevedo de Amorim \\
 Aurel	Malapani \\
 Avery	Podell-Blume \\
 Baqiao	Liu \\
 Bas	Spitters \\
+Benedikt	Ahrens \\
 Benno	van den Berg \\
 Brandon	Bohrer \\
 Brandon	Doherty \\
@@ -62,6 +64,7 @@ James	Francese \\
 Jason	Carr \\
 Jeffrey	Denniston \\
 Jeremy	Avigad \\
+Jesse	Han \\
 Jinghui	Tao \\
 Jinxuan	Zhu \\
 Jonas	Frey \\
@@ -141,4 +144,4 @@ Yuhao	Huang \\
 Zachary	Gehlke \\
 Zeesahn	Lakhani \\
 Zhenyu	Sun \\
-Zhibo	Chen 
+Zhibo	Chen
