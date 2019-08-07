@@ -93,6 +93,8 @@ results. This course will give an introduction to these methods, both from a
 syntactic perspective in the form of cubical type theory and from a semantic
 perspective in the form of cubical set models.
 
+[Course notes](http://www.cs.cmu.edu/~amoertbe/papers/cubicalmethods.pdf).
+
 #### Higher topos theory -- Mathieu Anel
 
 
