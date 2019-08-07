@@ -125,6 +125,8 @@ installation instructions
 [here](https://hott.github.io/HoTT-2019/agda-installation/) or
 [here](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/installation.html).
 
+[Slides](https://guillaumebrunerie.github.io/pdf/SummerSchool1.pdf).
+
 #### Formalization in Coq -- Kristina Sojakova
 
 This course will focus on using the HoTT version of the Coq proof assistant to
