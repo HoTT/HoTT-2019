@@ -81,6 +81,9 @@ Prerequisites: Knowledge of basic category theory -- in particular the concepts
 of adjoint functor and cartesian closed category -- will be helpful. See for
 Awodey's textbook *Category theory* (2006).
 
+[The rules of type theory](/images/mltt-rules.pdf).
+
+
 #### Cubical methods -- Anders Mörtberg
 
 Cubical methods have played an important role in the development of HoTT during
