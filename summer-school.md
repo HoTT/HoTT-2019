@@ -114,6 +114,8 @@ logos, ∞-topos, comparison with 1-topos)
 Reference: [Anel, M and Joyal, A.
 *Topo-logie*](http://mathieu.anel.free.fr/mat/doc/Anel-Joyal-Topo-logie.pdf)
 
+[Slides](http://mathieu.anel.free.fr/mat/doc/Anel-HoTT2019SS-LectureI.pdf).
+
 #### Formalization in Agda -- Guillaume Brunerie
 
 This course is an introduction to the Agda proof assistant. I will show you the
