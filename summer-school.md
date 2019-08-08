@@ -127,6 +127,8 @@ installation instructions
 
 [Slides](https://guillaumebrunerie.github.io/pdf/SummerSchool1.pdf).
 
+[Agda code for class 1](https://guillaumebrunerie.github.io/agda/SummerSchool1.agda).
+
 #### Formalization in Coq -- Kristina Sojakova
 
 This course will focus on using the HoTT version of the Coq proof assistant to
