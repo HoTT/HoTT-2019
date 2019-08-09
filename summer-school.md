@@ -145,8 +145,10 @@ and/or contribute to the formalization of the HoTT book.
 We encourage everyone intending to do serious formalization to consider getting
 a **Linux** distribution (e.g., Ubuntu). The installation instructions for the
 HoTT version of Coq on Linux can be found
-[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), see also the
+[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), and in the
 excerpt [here](https://hott.github.io/HoTT-2019/coq-installation/).
+
+See also the [additional Coq instruction notes for Linux users](https://hott.github.io/HoTT-2019/coq-additional-installation-instructions/).
 
 On **Windows**: there is now a beta version of Coq 8.10 that includes the HoTT
 library and the HoTT version of CoqIDE, courtesy of Michael Soegtrop.
