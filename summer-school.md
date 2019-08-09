@@ -78,7 +78,7 @@ theory in categories with families, I will speak about strictification of
 non-strict models.
 
 Prerequisites: Knowledge of basic category theory -- in particular the concepts
-of adjoint functor and cartesian closed category -- will be helpful. See for
+of adjoint functor and cartesian closed category -- will be helpful. See for example
 Awodey's textbook *Category theory* (2006).
 
 [The rules of type theory](/images/mltt-rules.pdf).
