@@ -100,6 +100,8 @@ perspective in the form of cubical set models.
 
 [Course notes](http://www.cs.cmu.edu/~amoertbe/papers/cubicalmethods.pdf).
 
+[Agda code](https://github.com/agda/cubical/blob/hottschool2019/Cubical/HoTTSchool.agda).
+
 #### Higher topos theory -- Mathieu Anel
 
 
@@ -107,11 +109,11 @@ I will give a presentation of the notion of ∞-topos by means of the higher
 algebraic theory of logoi.
 
 * Course 1: Homotopy theory and localization of categories (homotopy, fractions,
-model structure, Dwyer-Kan localization)
-* Course 2: The theory of logoi (descent, universe, definitions, monadicity, free
-logos, ∞-topos, comparison with 1-topos)
+  model structure, Dwyer-Kan localization)
+* Course 2: The theory of logoi (descent, universe, definitions, monadicity,
+  free logos, ∞-topos, comparison with 1-topos)
 * Course 3: Features of logoi (quotient, classifying logoi, truncations,
-∞-connected objects, modalities)
+  ∞-connected objects, modalities)
 
 Reference: [Anel, M and Joyal, A.
 *Topo-logie*](http://mathieu.anel.free.fr/mat/doc/Anel-Joyal-Topo-logie.pdf)
