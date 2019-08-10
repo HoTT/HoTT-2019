@@ -78,7 +78,7 @@ theory in categories with families, I will speak about strictification of
 non-strict models.
 
 Prerequisites: Knowledge of basic category theory -- in particular the concepts
-of adjoint functor and cartesian closed category -- will be helpful. See for
+of adjoint functor and cartesian closed category -- will be helpful. See for example
 Awodey's textbook *Category theory* (2006).
 
 [The rules of type theory](/images/mltt-rules.pdf).
@@ -116,6 +116,8 @@ logos, ∞-topos, comparison with 1-topos)
 Reference: [Anel, M and Joyal, A.
 *Topo-logie*](http://mathieu.anel.free.fr/mat/doc/Anel-Joyal-Topo-logie.pdf)
 
+[Slides](http://mathieu.anel.free.fr/mat/doc/Anel-HoTT2019SS-LectureI.pdf).
+
 #### Formalization in Agda -- Guillaume Brunerie
 
 This course is an introduction to the Agda proof assistant. I will show you the
@@ -132,6 +134,8 @@ installation instructions
 
 [Slides](https://guillaumebrunerie.github.io/pdf/SummerSchool1.pdf).
 
+[Agda code for class 1](https://guillaumebrunerie.github.io/agda/SummerSchool1.agda).
+
 #### Formalization in Coq -- Kristina Sojakova
 
 This course will focus on using the HoTT version of the Coq proof assistant to
@@ -143,8 +147,10 @@ and/or contribute to the formalization of the HoTT book.
 We encourage everyone intending to do serious formalization to consider getting
 a **Linux** distribution (e.g., Ubuntu). The installation instructions for the
 HoTT version of Coq on Linux can be found
-[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), see also the
+[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), and in the
 excerpt [here](https://hott.github.io/HoTT-2019/coq-installation/).
+
+See also the [additional Coq instruction notes for Linux users](https://hott.github.io/HoTT-2019/coq-additional-linux-instructions/).
 
 On **Windows**: there is now a beta version of Coq 8.10 that includes the HoTT
 library and the HoTT version of CoqIDE, courtesy of Michael Soegtrop.
