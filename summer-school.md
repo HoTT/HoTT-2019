@@ -83,6 +83,8 @@ Awodey's textbook *Category theory* (2006).
 
 [The rules of type theory](/images/mltt-rules.pdf).
 
+[Bibliography](/images/semantics-bibliography.pdf).
+
 
 #### Cubical methods -- Anders Mörtberg
 
