@@ -47,7 +47,7 @@ For the formalization classes you will need to have the appropriate versions of
 the Agda and Coq proof assistants installed (or use an online version in case of
 Coq), see the course descriptions below for more details.
 
-### Abstracts
+### Course descriptions and materials
 
 #### Synthetic homotopy theory -- Egbert Rijke
 
