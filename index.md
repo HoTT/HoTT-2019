@@ -48,7 +48,8 @@ Science](https://www.cambridge.org/core/journals/mathematical-structures-in-comp
 edited by Dan Licata and Peter LeFanu Lumsdaine.  The special issue invites all
 work on homotopy type theory and related research areas, and is open to work not
 presented at the conference as well as papers related to talks that were given.
-The submission deadline is November 15, 2019.
+
+The submission deadline is **November 15, 2019**.
 
 ##### Local Committee
 
