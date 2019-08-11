@@ -19,7 +19,7 @@ preceding week,
 
 ### Invited Conference Speakers
 
-* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) (TU Darmstadt, Germany) -- [TBA](programme#buchholtz)
+* [Ulrik Buchholtz](https://www2.mathematik.tu-darmstadt.de/~buchholtz/) (TU Darmstadt, Germany) -- [Musings about 2-groups](programme#buchholtz)
 * [Dan Licata](http://dlicata.web.wesleyan.edu) (Wesleyan University, USA) -- [A Fibrational Framework for Substructural and Modal Dependent Type Theories](programme#licata)
 * [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge, UK) -- [Presheaves, Constructive Sets and Univalence](programme#pitts)
 * [Emily Riehl](http://www.math.jhu.edu/~eriehl/) (Johns Hopkins University, USA) -- [The equivariant uniform Kan fibration model of cubical homotopy type theory](programme#riehl)

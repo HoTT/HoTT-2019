@@ -60,9 +60,9 @@ The aim of this talk is to propose a way of doing informal type theory with cubi
 
 The initiality conjecture, stating that the term model of type theory is initial in the category of models, is a well-known open problem about categorical semantics of type theory. The main obstacles to proving it are that it is very technical, and that it isn’t even clear what the precise statement should be. We present here a proof of the initiality conjecture for a specific version of Martin-Löf type theory. The proof is formally checked in Agda and can be extended by additional type/term-formers if needed.
 
-#### Ulrik Buchholtz: TBA {#buchholtz}
+#### Ulrik Buchholtz: Musings about 2-groups {#buchholtz}
 
-TBA
+I'll talk about the beginnings of the theory of 2-groups in homotopy type theory. The basic definitions are very elegantly expressed in this setting, and many indeed appeared already in previous work with Floris van Doorn and Egbert Rijke. For instance, a 2-group is defined as a pointed, connected 2-type. Here I'll discuss how to connect these abstract definitions with more traditional models in terms of crossed modules. Topics include the geometric realizations of crossed modules and butterflies in terms of gerbes, non-abelian cohomology, the Galois theory of 2-covering spaces, the Postnikov invariant, and Whitehead products for braided 2-groups.
 
 #### Pierre Cagne: Identity types as equality predicates {#cagne}
 
