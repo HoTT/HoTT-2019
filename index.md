@@ -42,8 +42,14 @@ University, USA)
 
 ##### Proceedings
 
-A proceedings volume will be published as a special issue of [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science), edited by Dan Licata and Peter LeFanu Lumsdaine.  Submissions will be open for several months after HoTT 2019; details will be announced nearer the time.
+A proceedings volume will be published as a special issue of [Mathematical
+Structures in Computer
+Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science),
+edited by Dan Licata and Peter LeFanu Lumsdaine.  The special issue invites all
+work on homotopy type theory and related research areas, and is open to work not
+presented at the conference as well as papers related to talks that were given.
 
+The submission deadline is **November 15, 2019**.
 
 ##### Local Committee
 

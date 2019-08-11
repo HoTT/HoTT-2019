@@ -47,7 +47,7 @@ For the formalization classes you will need to have the appropriate versions of
 the Agda and Coq proof assistants installed (or use an online version in case of
 Coq), see the course descriptions below for more details.
 
-### Abstracts
+### Course descriptions and materials
 
 #### Synthetic homotopy theory -- Egbert Rijke
 
@@ -78,8 +78,13 @@ theory in categories with families, I will speak about strictification of
 non-strict models.
 
 Prerequisites: Knowledge of basic category theory -- in particular the concepts
-of adjoint functor and cartesian closed category -- will be helpful. See for
+of adjoint functor and cartesian closed category -- will be helpful. See for example
 Awodey's textbook *Category theory* (2006).
+
+[The rules of type theory](/images/mltt-rules.pdf).
+
+[Bibliography](/images/semantics-bibliography.pdf).
+
 
 #### Cubical methods -- Anders Mörtberg
 
@@ -93,6 +98,10 @@ results. This course will give an introduction to these methods, both from a
 syntactic perspective in the form of cubical type theory and from a semantic
 perspective in the form of cubical set models.
 
+[Course notes](http://www.cs.cmu.edu/~amoertbe/papers/cubicalmethods.pdf).
+
+[Agda code](https://github.com/agda/cubical/blob/hottschool2019/Cubical/HoTTSchool.agda).
+
 #### Higher topos theory -- Mathieu Anel
 
 
@@ -100,14 +109,16 @@ I will give a presentation of the notion of ∞-topos by means of the higher
 algebraic theory of logoi.
 
 * Course 1: Homotopy theory and localization of categories (homotopy, fractions,
-model structure, Dwyer-Kan localization)
-* Course 2: The theory of logoi (descent, universe, definitions, monadicity, free
-logos, ∞-topos, comparison with 1-topos)
+  model structure, Dwyer-Kan localization)
+* Course 2: The theory of logoi (descent, universe, definitions, monadicity,
+  free logos, ∞-topos, comparison with 1-topos)
 * Course 3: Features of logoi (quotient, classifying logoi, truncations,
-∞-connected objects, modalities)
+  ∞-connected objects, modalities)
 
 Reference: [Anel, M and Joyal, A.
 *Topo-logie*](http://mathieu.anel.free.fr/mat/doc/Anel-Joyal-Topo-logie.pdf)
+
+[Slides](http://mathieu.anel.free.fr/mat/doc/Anel-HoTT2019SS-LectureI.pdf).
 
 #### Formalization in Agda -- Guillaume Brunerie
 
@@ -123,6 +134,10 @@ installation instructions
 [here](https://hott.github.io/HoTT-2019/agda-installation/) or
 [here](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/installation.html).
 
+[Slides](https://guillaumebrunerie.github.io/pdf/SummerSchool1.pdf).
+
+[Agda code for class 1](https://guillaumebrunerie.github.io/agda/SummerSchool1.agda).
+
 #### Formalization in Coq -- Kristina Sojakova
 
 This course will focus on using the HoTT version of the Coq proof assistant to
@@ -134,8 +149,10 @@ and/or contribute to the formalization of the HoTT book.
 We encourage everyone intending to do serious formalization to consider getting
 a **Linux** distribution (e.g., Ubuntu). The installation instructions for the
 HoTT version of Coq on Linux can be found
-[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), see also the
+[here](https://github.com/HoTT/HoTT/blob/master/INSTALL.md), and in the
 excerpt [here](https://hott.github.io/HoTT-2019/coq-installation/).
+
+See also the [additional Coq instruction notes for Linux users](https://hott.github.io/HoTT-2019/coq-additional-linux-instructions/).
 
 On **Windows**: there is now a beta version of Coq 8.10 that includes the HoTT
 library and the HoTT version of CoqIDE, courtesy of Michael Soegtrop.
@@ -147,3 +164,7 @@ is the 32 bit version.
 For people who just want to get through the course, there is an option to use
 the [HoTT version of Coq from within a browser](https://x80.org/rhino-hott/),
 that should work on the latest version of Chrome and/or Firefox.
+
+[Coq file for 1st session](../files/lics-example.coq).
+
+[Path spaces of higher inductive types in homotopy type theory](https://arxiv.org/pdf/1901.06022.pdf).
