@@ -29,6 +29,7 @@ Bruno	Bentzen \\
 Caleb	Camrud \\
 Carlo	Angiuli \\
 Chaitanya	Leena Subramaniam \\
+Chenkai Wang \\
 Christian	Sattler \\
 Christopher	Brown \\
 Cipriano	Cioffo \\
