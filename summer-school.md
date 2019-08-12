@@ -165,7 +165,7 @@ For people who just want to get through the course, there is an option to use
 the [HoTT version of Coq from within a browser](https://x80.org/rhino-hott/),
 that should work on the latest version of Chrome and/or Firefox.
 
-[Coq file for 1st session](../files/class1.v).
+<!-- [Coq file for 1st session](../files/class1.v). -->
 
 [Coq file for 2nd session](../files/class2.v).
 
