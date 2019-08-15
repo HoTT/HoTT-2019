@@ -7,7 +7,9 @@ title: "HoTT Summer School - August 7 to 10"
 
 ### Group Photo
 
-[![Conference poster](/images/ss-photo.jpg){: width="800"}](../images/ss-photo.jpg)
+[![Conference poster](/images/ss-photo-small.jpg)](../images/ss-photo.jpg)
+
+Click for full size.
 
 ### Topics and Instructors
 
