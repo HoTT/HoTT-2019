@@ -107,6 +107,7 @@ Patrick	Nicodemu \\
 Paul	Lessard \\
 Pedro Henrique	Azevedo de Amorim \\
 Pierre	Cagne \\
+Pieter Hofstra \\
 Quinn	Dougherty \\
 Rafay	Ashary \\
 Raffael	Stenzel \\
