@@ -4,6 +4,11 @@ permalink: /summer-school/
 title: "HoTT Summer School - August 7 to 10"
 ---
 
+
+### Group Photo
+
+[![Conference poster](/images/ss-photo.jpg){: width="800"}](../images/ss-photo.jpg)
+
 ### Topics and Instructors
 
 * Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
