@@ -11,6 +11,11 @@ title: "HoTT Summer School - August 7 to 10"
 
 Click for full size.
 
+### Open problems
+
+[Here](https://ncatlab.org/homotopytypetheory/show/HoTT2019+Summer+School+open+problems+list)
+is the list of open problems from the discussion on the last day.
+
 ### Topics and Instructors
 
 * Synthetic homotopy theory: [Egbert Rijke](https://github.com/EgbertRijke) (University of Illinois, USA)
