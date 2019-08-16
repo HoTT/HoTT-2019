@@ -13,9 +13,9 @@
 #   url: /call-for-papers/
 #   excerpt: Call for papers and submisson information
 
-- title: Registration
-  url: /registration/
-  excerpt: Conference and summer school registration
+# - title: Registration
+#   url: /registration/
+#   excerpt: Conference and summer school registration
 
 - title: Accommodation
   url: /accommodation/
@@ -36,3 +36,7 @@
 - title: Participants
   url: /participants/
   excerpt: Participants
+
+- title: Photos
+  url: /photos/
+  excerpt: Group Photos
