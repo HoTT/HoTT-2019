@@ -78,7 +78,7 @@ On the other hand, the identity types of Martin-Löf's intensional type theory f
 
 The goal of this talk is to provide a first step toward the unification of hyperdoctrines with homotopical models of HoTT in a same framework. This is done by introducing relative weak/strong  factorization system: these are the data of a functor p:E&rarr;B together with two classes of maps on E and two classes of maps on B satisfying lifting properties. In particular, classical weak/strong factorization systems on E are retrieved as the ones relative to E&rarr;1. We then prove that Grothendieck fibrations can be expressed as peculiar relative strong factorization system while fibrations in a tribe give rise to a peculiar relative weak factorization system. Relative factorization systems make it thus possible to define path spaces in the same fashion as equality predicates, providing a track to define more general model of intensional type theory.
 
-#### Vikraman Choudhury: [The finite-multiset construction in HoTT [[slides]](../conf-slides/Choudhury.pdf) {#choudhury}
+#### Vikraman Choudhury: The finite-multiset construction in HoTT [[slides]](../conf-slides/Choudhury.pdf) {#choudhury}
 
 We study the finite-multiset construction in HoTT as the free commutative monoid on a set (0-type).
 
