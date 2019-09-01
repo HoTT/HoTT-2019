@@ -42,12 +42,12 @@ University, USA)
 
 ##### Proceedings
 
-A proceedings volume will be published as a special issue of [Mathematical
-Structures in Computer
-Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science),
-edited by Dan Licata and Peter LeFanu Lumsdaine.  The special issue invites all
+A [proceedings volume](https://www.cambridge.org/core/news/homotopy-type-theory) will be published as a special issue of [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science), edited by Dan Licata and Peter LeFanu Lumsdaine.  The special issue invites all
 work on homotopy type theory and related research areas, and is open to work not
 presented at the conference as well as papers related to talks that were given.
+
+To submit your paper, please follow the general submission procedure for [MSCS](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)
+through ManuscriptCentral.  On the page labeled “Step 1: Type, Title, & Abstract” there is a field for “Special Issue”.  Please select “Homotopy Type Theory 2019” from the list.  
 
 The submission deadline is **November 15, 2019**.
 
