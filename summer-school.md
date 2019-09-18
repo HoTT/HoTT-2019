@@ -98,7 +98,7 @@ results. This course will give an introduction to these methods, both from a
 syntactic perspective in the form of cubical type theory and from a semantic
 perspective in the form of cubical set models.
 
-[Course notes](http://www.cs.cmu.edu/~amoertbe/papers/cubicalmethods.pdf).
+[Course notes](http://staff.math.su.se/anders.mortberg/papers/cubicalmethods.pdf).
 
 [Agda code](https://github.com/agda/cubical/blob/hottschool2019/Cubical/HoTTSchool.agda).
 
